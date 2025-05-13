@@ -43,9 +43,14 @@ Le dossier `models/` contient les modèles entraînés et prêts à être utilis
 | `best.pt`                     | Modèle YOLOv8 pour détecter et classifier les produits cosmétiques          |
 | `trained_model_cpu.pth`       | Modèle PyTorch recommandant un produit selon la couleur de peau             |
 | `my_model.pt`                 | Modèle utilisant OpenCV pour vérifier si un produit est cassé (réclamation) |
+| `rf_model.pkl`                | Modèle utilisant une régression linéaire pour prévoir les revenus des magasins |
+| `regression_model.pkl`        | Modèle pour prédire les changements dans les matières premières             |
 
-🖼️ *[Une image illustrant la détection peut être ajoutée ici]*  
-*(Exemple : visualisation d’un produit détecté ou comparaison avant/après)*
+🖼️ Tester le modèle pour les produits cassés et non cassés :
+- Produit non cassé : ![produit non cassé](image-1.png)
+- Produit cassé : ![produit cassé](image-2.png)
+
+🖼️ Tester l'environnement optimal pour stocker les produits : ![alt text](image-3.png)
 
 ---
 
@@ -65,7 +70,10 @@ Tous les notebooks Jupyter utilisés pour l’expérimentation sont disponibles 
 
 | Notebook                              | Description                                                                 |
 |--------------------------------------|-----------------------------------------------------------------------------|
-| `model_temperature_humidity.ipynb`   | Prédiction des conditions optimales de stockage                             |
+| `model_temperature_humidity.ipynb`   | Prédiction des conditions optimales de stockage avec XGBoost               |
+| `amazone_web_scraping_beautufifull_soup.ipynb` | Scraping de produits pour collecter des données externes avec BeautifulSoup |
+| `ShopAmount (1).ipynb`               | Prédiction des bénéfices des boutiques sur une période donnée              |
+| `Décideur1 (1).ipynb`                | Modèle pour prévoir les changements de prix des matières premières          |
 
 ---
 
@@ -73,5 +81,27 @@ Tous les notebooks Jupyter utilisés pour l’expérimentation sont disponibles 
 
 1. Cloner le dépôt :
 ```bash
-git clone https://github.com/votre-utilisateur/Deploiment-ML.git
+git clone https://github.com/rayan70/Deploiment-ML.git
 cd Deploiment-ML
+```
+
+2. Installer les dépendances :
+```bash
+pip install -r requirements.txt
+```
+
+## 🚀 Utilisation
+
+1. Lancer l'application :
+```bash
+python app.py
+```
+
+2. Faire une requête POST à l'API `/predict` avec des données JSON :
+```json
+{
+    "features": [valeur1, valeur2, ...]
+}
+```
+
+
