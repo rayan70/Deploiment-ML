@@ -1,0 +1,1202 @@
+Timestamp,Sensor_ID,productid,productname,temperature,humidity,Status,category
+2025-01-28 14:44:31,SENSOR-596,PR-001,Hair Serum 1,21.1,79.42,Alerte Température & Humidité,Haircare
+2025-02-11 16:18:31,SENSOR-743,PR-002,Body Wash 2,19.79,57.33,Normal,Bodycare
+2025-01-25 04:44:31,SENSOR-518,PR-003,Foot Cream 3,21.78,57.92,Normal,Bodycare
+2025-01-19 07:22:31,SENSOR-823,PR-004,Conditioner 4,23.5,74.9,Normal,Haircare
+2025-01-26 09:03:31,SENSOR-583,PR-005,Eau de Toilette 5,20.1,48.86,Alerte Humidité,Fragrance
+2025-01-25 17:50:31,SENSOR-442,PR-006,Face Wash 6,22.09,65.23,Alerte Humidité,Skincare
+2025-01-19 06:35:31,SENSOR-855,PR-007,Blush 7,22.9,48.62,Normal,Makeup
+2025-02-04 05:05:31,SENSOR-975,PR-008,Moisturizer 8,19.02,51.93,Normal,Skincare
+2025-01-21 21:35:31,SENSOR-141,PR-009,Perfume Oil 9,19.92,34.77,Alerte Humidité,Fragrance
+2025-01-14 23:21:31,SENSOR-286,PR-010,Mascara 10,21.2,59.7,Alerte Humidité,Makeup
+2025-02-07 20:55:31,SENSOR-894,PR-011,Lipstick 11,18.13,33.02,Alerte Humidité,Makeup
+2025-01-21 14:33:31,SENSOR-624,PR-012,Moisturizer 12,19.31,40.41,Alerte Humidité,Skincare
+2025-02-06 23:27:31,SENSOR-863,PR-013,Foundation 13,23.32,52.78,Normal,Makeup
+2025-01-11 21:53:31,SENSOR-429,PR-014,Eau de Toilette 14,20.83,31.91,Alerte Humidité,Fragrance
+2025-01-23 13:38:31,SENSOR-420,PR-015,Body Lotion 15,25.46,66.59,Alerte Température & Humidité,Bodycare
+2025-02-08 10:18:31,SENSOR-883,PR-016,Blush 16,19.25,33.82,Alerte Humidité,Makeup
+2025-01-17 05:26:31,SENSOR-501,PR-017,Shampoo 17,21.63,55.93,Alerte Température,Haircare
+2025-02-02 07:49:31,SENSOR-923,PR-018,Hair Oil 18,21.4,62.49,Alerte Température,Haircare
+2025-01-31 21:58:31,SENSOR-620,PR-019,Hand Cream 19,20.97,48.86,Normal,Bodycare
+2025-01-16 10:19:31,SENSOR-596,PR-020,Face Wash 20,24.27,60.3,Normal,Skincare
+2025-01-16 23:07:31,SENSOR-189,PR-021,Blush 21,20.31,53.62,Normal,Makeup
+2025-01-27 13:58:31,SENSOR-747,PR-022,Lipstick 22,16.28,46.0,Normal,Makeup
+2025-01-17 10:56:31,SENSOR-371,PR-023,Eyeliner 23,23.9,54.25,Normal,Makeup
+2025-01-17 14:06:31,SENSOR-346,PR-024,Body Scrub 24,20.96,41.91,Alerte Humidité,Bodycare
+2025-01-15 07:48:31,SENSOR-401,PR-025,Hair Mask 25,22.85,79.69,Alerte Humidité,Haircare
+2025-02-02 09:15:31,SENSOR-207,PR-026,Hair Serum 26,25.25,62.04,Normal,Haircare
+2025-01-21 15:02:31,SENSOR-518,PR-027,Foundation 27,24.44,53.45,Alerte Température,Makeup
+2025-01-31 19:18:31,SENSOR-361,PR-028,Sunscreen 28,23.62,44.48,Alerte Humidité,Skincare
+2025-02-08 16:15:31,SENSOR-869,PR-029,Hair Oil 29,20.13,63.56,Alerte Température,Haircare
+2025-01-29 02:30:31,SENSOR-940,PR-030,Shampoo 30,23.17,57.91,Normal,Haircare
+2025-02-02 00:30:31,SENSOR-798,PR-031,Eyeliner 31,23.86,51.14,Normal,Makeup
+2025-01-15 01:56:31,SENSOR-754,PR-032,Hair Serum 32,22.97,75.85,Alerte Humidité,Haircare
+2025-01-22 08:51:31,SENSOR-412,PR-033,Mascara 33,20.6,33.51,Alerte Humidité,Makeup
+2025-01-12 14:53:31,SENSOR-655,PR-034,Hair Serum 34,21.21,56.72,Alerte Température,Haircare
+2025-02-07 21:50:31,SENSOR-941,PR-035,Eau de Parfum 35,20.55,35.06,Normal,Fragrance
+2025-01-21 06:56:31,SENSOR-820,PR-036,Face Serum 36,22.93,43.04,Alerte Humidité,Skincare
+2025-01-27 04:23:31,SENSOR-707,PR-037,Eyeliner 37,17.55,50.06,Normal,Makeup
+2025-01-19 15:29:31,SENSOR-154,PR-038,Hand Cream 38,24.9,44.99,Alerte Humidité,Bodycare
+2025-01-31 18:08:31,SENSOR-315,PR-039,Body Wash 39,21.35,40.93,Alerte Humidité,Bodycare
+2025-01-28 08:54:31,SENSOR-470,PR-040,Body Lotion 40,24.63,54.38,Normal,Bodycare
+2025-01-19 16:25:31,SENSOR-846,PR-041,Foot Cream 41,21.46,66.49,Alerte Humidité,Bodycare
+2025-01-22 02:12:31,SENSOR-331,PR-042,Body Scrub 42,20.44,54.12,Normal,Bodycare
+2025-02-11 05:04:31,SENSOR-832,PR-043,Body Wash 43,20.67,46.32,Normal,Bodycare
+2025-02-11 06:07:31,SENSOR-356,PR-044,Foundation 44,23.65,31.02,Alerte Humidité,Makeup
+2025-01-11 23:29:31,SENSOR-709,PR-045,Eau de Toilette 45,21.77,34.86,Alerte Température & Humidité,Fragrance
+2025-02-02 01:17:31,SENSOR-357,PR-046,Face Serum 46,24.6,57.58,Normal,Skincare
+2025-02-01 11:20:31,SENSOR-964,PR-047,Face Serum 47,25.46,61.41,Alerte Température,Skincare
+2025-01-28 01:34:31,SENSOR-914,PR-048,Blush 48,20.25,53.88,Normal,Makeup
+2025-02-03 12:31:31,SENSOR-429,PR-049,Hair Oil 49,25.72,61.13,Normal,Haircare
+2025-01-18 07:49:31,SENSOR-947,PR-050,Mascara 50,23.59,43.39,Normal,Makeup
+2025-02-07 17:18:31,SENSOR-539,PR-051,Night Cream 51,24.92,62.35,Normal,Skincare
+2025-01-18 17:51:31,SENSOR-808,PR-052,Lipstick 52,19.9,53.52,Normal,Makeup
+2025-01-24 09:58:31,SENSOR-306,PR-053,Blush 53,16.13,45.06,Normal,Makeup
+2025-02-09 00:03:31,SENSOR-953,PR-054,Eyeliner 54,24.59,55.03,Alerte Température & Humidité,Makeup
+2025-02-04 17:21:31,SENSOR-620,PR-055,Hair Mask 55,20.72,67.25,Alerte Température,Haircare
+2025-01-29 23:33:31,SENSOR-602,PR-056,Face Serum 56,25.93,64.85,Alerte Température,Skincare
+2025-01-24 05:57:31,SENSOR-229,PR-057,Body Lotion 57,21.85,61.46,Normal,Bodycare
+2025-02-01 11:01:31,SENSOR-330,PR-058,Conditioner 58,21.86,64.52,Alerte Température,Haircare
+2025-02-04 22:38:31,SENSOR-429,PR-059,Foundation 59,15.25,55.98,Alerte Température & Humidité,Makeup
+2025-02-05 19:48:31,SENSOR-772,PR-060,Sunscreen 60,24.03,43.63,Alerte Humidité,Skincare
+2025-01-31 16:57:31,SENSOR-246,PR-061,Blush 61,23.49,53.14,Normal,Makeup
+2025-02-11 07:58:31,SENSOR-301,PR-062,Night Cream 62,19.35,66.53,Alerte Humidité,Skincare
+2025-02-10 07:08:31,SENSOR-892,PR-063,Foot Cream 63,19.54,60.61,Normal,Bodycare
+2025-01-20 23:40:31,SENSOR-748,PR-064,Eyeliner 64,18.27,41.32,Normal,Makeup
+2025-01-11 20:58:31,SENSOR-506,PR-065,Moisturizer 65,22.27,47.8,Normal,Skincare
+2025-01-25 21:19:31,SENSOR-331,PR-066,Face Serum 66,22.47,49.24,Normal,Skincare
+2025-02-02 23:22:31,SENSOR-227,PR-067,Body Scrub 67,18.57,48.03,Alerte Température,Bodycare
+2025-01-30 09:13:31,SENSOR-964,PR-068,Hand Cream 68,21.4,60.01,Normal,Bodycare
+2025-02-05 11:43:31,SENSOR-580,PR-069,Eau de Parfum 69,21.15,32.56,Alerte Température & Humidité,Fragrance
+2025-01-15 06:21:31,SENSOR-208,PR-070,Hair Mask 70,21.25,69.57,Alerte Température,Haircare
+2025-01-16 04:52:31,SENSOR-293,PR-071,Body Scrub 71,21.98,66.02,Alerte Humidité,Bodycare
+2025-02-05 18:22:31,SENSOR-700,PR-072,Body Mist 72,18.82,48.82,Alerte Température & Humidité,Fragrance
+2025-01-27 00:41:31,SENSOR-357,PR-073,Moisturizer 73,18.15,40.97,Alerte Température & Humidité,Skincare
+2025-02-10 12:05:31,SENSOR-418,PR-074,Sunscreen 74,25.61,49.03,Alerte Température,Skincare
+2025-01-26 22:22:31,SENSOR-592,PR-075,Foot Cream 75,23.68,40.62,Alerte Humidité,Bodycare
+2025-01-15 00:07:31,SENSOR-206,PR-076,Eau de Parfum 76,19.45,31.87,Alerte Humidité,Fragrance
+2025-02-09 11:41:31,SENSOR-812,PR-077,Hair Serum 77,24.31,72.54,Normal,Haircare
+2025-01-23 21:20:31,SENSOR-986,PR-078,Blush 78,21.73,33.93,Alerte Humidité,Makeup
+2025-01-28 23:47:31,SENSOR-851,PR-079,Body Wash 79,20.91,67.34,Alerte Humidité,Bodycare
+2025-01-22 15:03:31,SENSOR-926,PR-080,Blush 80,15.55,46.1,Alerte Température,Makeup
+2025-01-23 09:14:31,SENSOR-770,PR-081,Blush 81,22.38,42.7,Normal,Makeup
+2025-02-01 02:11:31,SENSOR-734,PR-082,Deodorant 82,19.3,41.63,Normal,Fragrance
+2025-02-09 08:41:31,SENSOR-518,PR-083,Shampoo 83,25.62,61.01,Normal,Haircare
+2025-02-07 12:03:31,SENSOR-757,PR-084,Hair Oil 84,23.68,57.91,Normal,Haircare
+2025-01-17 10:21:31,SENSOR-177,PR-085,Body Mist 85,20.38,31.69,Alerte Humidité,Fragrance
+2025-01-26 18:16:31,SENSOR-785,PR-086,Moisturizer 86,24.47,69.43,Alerte Humidité,Skincare
+2025-01-28 06:16:31,SENSOR-827,PR-087,Mascara 87,15.62,42.9,Alerte Température,Makeup
+2025-01-30 12:39:31,SENSOR-628,PR-088,Eau de Parfum 88,19.33,39.98,Normal,Fragrance
+2025-02-05 05:12:31,SENSOR-497,PR-089,Face Wash 89,23.78,42.02,Alerte Humidité,Skincare
+2025-01-19 11:47:31,SENSOR-280,PR-090,Body Wash 90,25.43,56.61,Alerte Température,Bodycare
+2025-01-22 13:09:31,SENSOR-662,PR-091,Hair Serum 91,23.49,64.2,Normal,Haircare
+2025-01-27 18:49:31,SENSOR-202,PR-092,Perfume Oil 92,19.16,43.6,Normal,Fragrance
+2025-01-30 08:29:31,SENSOR-503,PR-093,Conditioner 93,23.66,74.91,Normal,Haircare
+2025-02-06 15:31:31,SENSOR-639,PR-094,Foot Cream 94,22.24,47.47,Normal,Bodycare
+2025-01-16 00:11:31,SENSOR-707,PR-095,Hair Mask 95,23.81,61.1,Normal,Haircare
+2025-01-16 16:42:31,SENSOR-637,PR-096,Conditioner 96,25.97,50.71,Alerte Humidité,Haircare
+2025-02-06 14:00:31,SENSOR-173,PR-097,Night Cream 97,20.98,40.19,Alerte Humidité,Skincare
+2025-01-12 08:45:31,SENSOR-163,PR-098,Hair Oil 98,24.54,56.72,Normal,Haircare
+2025-02-03 15:56:31,SENSOR-546,PR-099,Hair Mask 99,21.29,50.37,Alerte Température & Humidité,Haircare
+2025-01-29 16:02:31,SENSOR-663,PR-100,Face Serum 100,19.95,60.4,Normal,Skincare
+2025-01-28 21:15:31,SENSOR-116,PR-101,Conditioner 101,22.11,68.76,Normal,Haircare
+2025-02-03 17:03:31,SENSOR-715,PR-102,Conditioner 102,27.44,53.94,Alerte Température & Humidité,Haircare
+2025-01-12 14:46:31,SENSOR-515,PR-103,Body Lotion 103,22.99,46.49,Normal,Bodycare
+2025-01-14 15:00:31,SENSOR-582,PR-104,Mascara 104,19.18,42.48,Normal,Makeup
+2025-01-25 18:15:31,SENSOR-348,PR-105,Sunscreen 105,18.83,51.26,Alerte Température,Skincare
+2025-02-07 10:29:31,SENSOR-235,PR-106,Body Lotion 106,22.98,43.68,Alerte Humidité,Bodycare
+2025-01-17 11:11:31,SENSOR-170,PR-107,Hair Oil 107,24.34,59.37,Normal,Haircare
+2025-02-06 20:03:31,SENSOR-813,PR-108,Eyeliner 108,21.05,40.96,Normal,Makeup
+2025-02-11 01:36:31,SENSOR-444,PR-109,Hand Cream 109,18.26,62.86,Alerte Température,Bodycare
+2025-01-30 03:56:31,SENSOR-239,PR-110,Blush 110,20.04,52.88,Normal,Makeup
+2025-01-16 22:47:31,SENSOR-517,PR-111,Body Scrub 111,22.02,60.32,Normal,Bodycare
+2025-02-11 06:49:31,SENSOR-181,PR-112,Moisturizer 112,19.14,46.39,Normal,Skincare
+2025-02-11 03:50:31,SENSOR-353,PR-113,Lipstick 113,21.02,57.42,Alerte Humidité,Makeup
+2025-01-29 12:36:31,SENSOR-520,PR-114,Conditioner 114,26.63,58.54,Normal,Haircare
+2025-02-02 09:35:31,SENSOR-141,PR-115,Eau de Parfum 115,20.15,38.1,Normal,Fragrance
+2025-02-11 06:26:31,SENSOR-563,PR-116,Moisturizer 116,24.08,61.88,Normal,Skincare
+2025-01-21 12:50:31,SENSOR-297,PR-117,Hair Oil 117,23.35,67.45,Normal,Haircare
+2025-01-23 10:40:31,SENSOR-348,PR-118,Shampoo 118,25.35,56.92,Normal,Haircare
+2025-01-18 17:56:31,SENSOR-432,PR-119,Perfume Oil 119,20.52,47.5,Alerte Humidité,Fragrance
+2025-01-14 02:01:31,SENSOR-389,PR-120,Lipstick 120,16.55,51.01,Normal,Makeup
+2025-02-01 09:23:31,SENSOR-607,PR-121,Hair Serum 121,26.07,74.91,Normal,Haircare
+2025-02-09 09:48:31,SENSOR-221,PR-122,Body Scrub 122,19.02,51.58,Normal,Bodycare
+2025-01-23 03:43:31,SENSOR-667,PR-123,Face Serum 123,19.49,51.39,Normal,Skincare
+2025-02-11 17:08:31,SENSOR-778,PR-124,Hair Mask 124,21.65,70.48,Alerte Température,Haircare
+2025-02-11 07:16:31,SENSOR-185,PR-125,Deodorant 125,21.2,47.47,Alerte Température & Humidité,Fragrance
+2025-01-29 15:08:31,SENSOR-478,PR-126,Face Serum 126,20.27,69.94,Alerte Humidité,Skincare
+2025-01-22 18:37:31,SENSOR-200,PR-127,Hair Serum 127,25.59,56.8,Normal,Haircare
+2025-01-25 07:47:31,SENSOR-904,PR-128,Night Cream 128,21.48,62.01,Normal,Skincare
+2025-02-09 08:10:31,SENSOR-539,PR-129,Hair Serum 129,25.47,77.25,Alerte Humidité,Haircare
+2025-01-14 18:09:31,SENSOR-662,PR-130,Shampoo 130,25.18,73.33,Normal,Haircare
+2025-01-29 03:18:31,SENSOR-479,PR-131,Eau de Toilette 131,19.58,37.34,Normal,Fragrance
+2025-02-03 09:44:31,SENSOR-882,PR-132,Eau de Toilette 132,21.66,31.78,Alerte Température & Humidité,Fragrance
+2025-01-16 16:16:31,SENSOR-460,PR-133,Foot Cream 133,25.48,66.13,Alerte Température & Humidité,Bodycare
+2025-01-23 17:46:31,SENSOR-307,PR-134,Perfume Oil 134,19.12,37.55,Normal,Fragrance
+2025-02-06 23:31:31,SENSOR-334,PR-135,Hand Cream 135,23.61,65.39,Alerte Humidité,Bodycare
+2025-01-21 19:42:31,SENSOR-611,PR-136,Moisturizer 136,19.28,64.43,Normal,Skincare
+2025-01-14 06:01:31,SENSOR-777,PR-137,Body Scrub 137,25.37,67.85,Alerte Température & Humidité,Bodycare
+2025-01-13 06:20:31,SENSOR-687,PR-138,Hair Mask 138,27.95,73.68,Alerte Température,Haircare
+2025-01-18 15:44:31,SENSOR-674,PR-139,Deodorant 139,21.54,31.65,Alerte Température & Humidité,Fragrance
+2025-01-15 00:42:31,SENSOR-823,PR-140,Hair Mask 140,25.82,62.92,Normal,Haircare
+2025-01-31 02:56:31,SENSOR-367,PR-141,Lipstick 141,20.49,36.79,Normal,Makeup
+2025-01-24 04:29:31,SENSOR-573,PR-142,Face Wash 142,21.7,54.36,Normal,Skincare
+2025-01-13 19:05:31,SENSOR-411,PR-143,Face Serum 143,25.0,43.04,Alerte Humidité,Skincare
+2025-01-12 07:16:31,SENSOR-140,PR-144,Face Wash 144,19.11,57.91,Normal,Skincare
+2025-01-27 23:31:31,SENSOR-838,PR-145,Deodorant 145,19.08,33.29,Alerte Humidité,Fragrance
+2025-02-10 13:40:31,SENSOR-162,PR-146,Eau de Toilette 146,18.7,45.54,Alerte Température & Humidité,Fragrance
+2025-02-11 11:25:31,SENSOR-212,PR-147,Hand Cream 147,25.66,44.86,Alerte Température & Humidité,Bodycare
+2025-01-13 14:37:31,SENSOR-178,PR-148,Mascara 148,24.34,59.96,Alerte Température & Humidité,Makeup
+2025-01-22 13:15:31,SENSOR-563,PR-149,Foundation 149,18.42,30.07,Alerte Humidité,Makeup
+2025-01-16 04:58:31,SENSOR-969,PR-150,Hand Cream 150,20.76,44.47,Alerte Humidité,Bodycare
+2025-01-16 10:06:31,SENSOR-172,PR-151,Night Cream 151,18.57,57.65,Alerte Température,Skincare
+2025-02-03 14:17:31,SENSOR-242,PR-152,Body Wash 152,25.3,44.74,Alerte Température & Humidité,Bodycare
+2025-01-17 09:23:31,SENSOR-169,PR-153,Body Scrub 153,20.49,64.01,Normal,Bodycare
+2025-01-22 06:52:31,SENSOR-584,PR-154,Lipstick 154,20.31,33.27,Alerte Humidité,Makeup
+2025-01-29 19:59:31,SENSOR-442,PR-155,Shampoo 155,27.71,56.07,Alerte Température,Haircare
+2025-02-01 13:27:31,SENSOR-240,PR-156,Eau de Parfum 156,21.85,41.67,Alerte Température,Fragrance
+2025-01-16 07:48:31,SENSOR-362,PR-157,Face Serum 157,19.03,42.13,Alerte Humidité,Skincare
+2025-01-20 11:43:31,SENSOR-833,PR-158,Hand Cream 158,19.67,58.3,Normal,Bodycare
+2025-01-25 23:18:31,SENSOR-866,PR-159,Face Serum 159,21.66,47.24,Normal,Skincare
+2025-01-17 19:08:31,SENSOR-431,PR-160,Body Wash 160,23.06,55.98,Normal,Bodycare
+2025-02-03 15:31:31,SENSOR-312,PR-161,Mascara 161,16.37,53.55,Normal,Makeup
+2025-01-25 12:19:31,SENSOR-284,PR-162,Body Scrub 162,19.47,41.47,Alerte Humidité,Bodycare
+2025-01-12 12:00:31,SENSOR-169,PR-163,Blush 163,22.76,57.31,Alerte Humidité,Makeup
+2025-01-18 05:17:31,SENSOR-363,PR-164,Hair Oil 164,24.57,70.6,Normal,Haircare
+2025-01-18 23:47:31,SENSOR-721,PR-165,Foundation 165,22.66,42.48,Normal,Makeup
+2025-01-27 17:37:31,SENSOR-892,PR-166,Face Serum 166,22.43,41.12,Alerte Humidité,Skincare
+2025-01-19 20:39:31,SENSOR-715,PR-167,Foot Cream 167,19.55,54.76,Normal,Bodycare
+2025-02-08 06:45:31,SENSOR-616,PR-168,Body Scrub 168,20.66,62.51,Normal,Bodycare
+2025-02-04 21:51:31,SENSOR-311,PR-169,Body Scrub 169,21.65,63.67,Normal,Bodycare
+2025-01-30 06:06:31,SENSOR-168,PR-170,Hand Cream 170,25.05,52.59,Alerte Température,Bodycare
+2025-02-02 06:15:31,SENSOR-969,PR-171,Foundation 171,17.65,37.69,Normal,Makeup
+2025-01-30 10:59:31,SENSOR-916,PR-172,Body Scrub 172,22.13,50.59,Normal,Bodycare
+2025-01-25 19:54:31,SENSOR-923,PR-173,Sunscreen 173,20.96,62.82,Normal,Skincare
+2025-01-26 04:07:31,SENSOR-692,PR-174,Foot Cream 174,20.02,61.82,Normal,Bodycare
+2025-01-12 11:27:31,SENSOR-101,PR-175,Perfume Oil 175,18.14,34.84,Alerte Température & Humidité,Fragrance
+2025-02-01 06:29:31,SENSOR-610,PR-176,Body Scrub 176,23.41,43.82,Alerte Humidité,Bodycare
+2025-02-02 06:32:31,SENSOR-333,PR-177,Deodorant 177,19.91,46.37,Alerte Humidité,Fragrance
+2025-01-25 16:59:31,SENSOR-889,PR-178,Face Wash 178,19.85,51.01,Normal,Skincare
+2025-01-23 21:17:31,SENSOR-101,PR-179,Sunscreen 179,21.38,53.68,Normal,Skincare
+2025-01-31 03:54:31,SENSOR-396,PR-180,Shampoo 180,21.63,57.36,Alerte Température,Haircare
+2025-01-22 18:32:31,SENSOR-578,PR-181,Hand Cream 181,18.29,62.13,Alerte Température,Bodycare
+2025-02-08 00:22:31,SENSOR-649,PR-182,Eau de Toilette 182,19.24,32.65,Alerte Humidité,Fragrance
+2025-01-23 10:00:31,SENSOR-896,PR-183,Face Serum 183,23.84,44.01,Alerte Humidité,Skincare
+2025-01-31 18:56:31,SENSOR-281,PR-184,Night Cream 184,19.52,52.86,Normal,Skincare
+2025-01-31 00:21:31,SENSOR-622,PR-185,Hand Cream 185,23.24,49.55,Normal,Bodycare
+2025-02-02 11:45:31,SENSOR-760,PR-186,Face Wash 186,24.9,62.22,Normal,Skincare
+2025-01-23 16:33:31,SENSOR-869,PR-187,Body Wash 187,21.17,65.92,Alerte Humidité,Bodycare
+2025-02-07 06:56:31,SENSOR-614,PR-188,Face Serum 188,21.46,55.62,Normal,Skincare
+2025-01-17 04:47:31,SENSOR-348,PR-189,Body Lotion 189,25.03,45.27,Alerte Température,Bodycare
+2025-01-14 07:27:31,SENSOR-541,PR-190,Perfume Oil 190,21.68,43.76,Alerte Température,Fragrance
+2025-01-20 20:37:31,SENSOR-578,PR-191,Body Scrub 191,23.62,65.83,Alerte Humidité,Bodycare
+2025-01-28 15:27:31,SENSOR-809,PR-192,Moisturizer 192,23.63,53.84,Normal,Skincare
+2025-01-20 20:26:31,SENSOR-394,PR-193,Eau de Toilette 193,20.79,47.7,Alerte Humidité,Fragrance
+2025-01-29 07:19:31,SENSOR-710,PR-194,Mascara 194,16.68,40.17,Normal,Makeup
+2025-02-08 17:40:31,SENSOR-938,PR-195,Deodorant 195,19.34,39.02,Normal,Fragrance
+2025-01-13 16:09:31,SENSOR-141,PR-196,Eau de Parfum 196,19.68,43.75,Normal,Fragrance
+2025-01-25 19:13:31,SENSOR-655,PR-197,Mascara 197,22.03,56.41,Alerte Humidité,Makeup
+2025-01-12 05:38:31,SENSOR-458,PR-198,Hair Serum 198,25.95,59.7,Normal,Haircare
+2025-01-30 13:45:31,SENSOR-352,PR-199,Eau de Parfum 199,21.21,48.4,Alerte Température & Humidité,Fragrance
+2025-02-05 08:51:31,SENSOR-296,PR-200,Eyeliner 200,23.73,58.97,Alerte Humidité,Makeup
+2025-01-24 00:49:31,SENSOR-569,PR-201,Face Serum 201,23.86,55.13,Normal,Skincare
+2025-02-01 18:18:31,SENSOR-261,PR-203,Lipstick 202,20.2,46.33,Normal,Makeup
+2025-01-14 02:31:31,SENSOR-409,PR-205,Foundation 203,19.08,33.92,Alerte Humidité,Makeup
+2025-01-16 23:20:31,SENSOR-624,PR-207,Perfume Oil 204,19.44,41.68,Normal,Fragrance
+2025-01-20 14:43:31,SENSOR-286,PR-209,Night Cream 205,23.83,52.58,Normal,Skincare
+2025-01-16 04:26:31,SENSOR-446,PR-211,Body Lotion 206,19.95,57.77,Normal,Bodycare
+2025-02-06 20:06:31,SENSOR-943,PR-213,Night Cream 207,24.66,57.87,Normal,Skincare
+2025-01-23 00:12:31,SENSOR-696,PR-215,Foot Cream 208,23.06,48.95,Normal,Bodycare
+2025-01-14 06:22:31,SENSOR-472,PR-217,Moisturizer 209,22.57,63.68,Normal,Skincare
+2025-02-01 16:20:31,SENSOR-649,PR-219,Body Mist 210,20.94,32.36,Alerte Humidité,Fragrance
+2025-01-18 23:13:31,SENSOR-953,PR-221,Hair Serum 211,20.18,52.38,Alerte Température & Humidité,Haircare
+2025-02-05 06:28:31,SENSOR-817,PR-223,Foundation 212,16.62,49.86,Normal,Makeup
+2025-02-11 13:00:31,SENSOR-559,PR-225,Hair Serum 213,20.18,66.3,Alerte Température,Haircare
+2025-01-19 02:53:31,SENSOR-445,PR-227,Foundation 214,16.12,51.21,Normal,Makeup
+2025-01-14 19:08:31,SENSOR-386,PR-229,Sunscreen 215,24.25,69.44,Alerte Humidité,Skincare
+2025-01-13 00:14:31,SENSOR-298,PR-231,Body Mist 216,19.92,48.0,Alerte Humidité,Fragrance
+2025-01-18 05:42:31,SENSOR-875,PR-233,Body Lotion 217,19.93,58.92,Normal,Bodycare
+2025-02-11 10:03:31,SENSOR-311,PR-235,Body Mist 218,18.37,40.04,Alerte Température,Fragrance
+2025-01-19 08:48:31,SENSOR-808,PR-237,Conditioner 219,26.71,67.73,Normal,Haircare
+2025-01-13 17:04:31,SENSOR-735,PR-239,Body Mist 220,21.61,38.35,Alerte Température,Fragrance
+2025-02-04 16:30:31,SENSOR-213,PR-241,Face Wash 221,21.95,64.63,Normal,Skincare
+2025-01-26 22:38:31,SENSOR-812,PR-243,Deodorant 222,19.89,47.9,Alerte Humidité,Fragrance
+2025-01-12 03:42:31,SENSOR-309,PR-245,Body Lotion 223,21.56,44.26,Alerte Humidité,Bodycare
+2025-02-09 18:05:31,SENSOR-512,PR-247,Sunscreen 224,24.35,57.22,Normal,Skincare
+2025-01-13 05:35:31,SENSOR-296,PR-249,Face Serum 225,20.26,61.64,Normal,Skincare
+2025-02-05 08:55:31,SENSOR-627,PR-251,Body Scrub 226,19.91,55.01,Normal,Bodycare
+2025-02-08 21:28:31,SENSOR-753,PR-253,Body Lotion 227,21.46,59.67,Normal,Bodycare
+2025-02-05 07:21:31,SENSOR-460,PR-255,Conditioner 228,20.94,58.56,Alerte Température,Haircare
+2025-02-06 20:42:31,SENSOR-479,PR-257,Hair Mask 229,26.78,65.67,Normal,Haircare
+2025-02-05 10:52:31,SENSOR-923,PR-259,Perfume Oil 230,21.12,37.88,Alerte Température,Fragrance
+2025-01-18 12:21:31,SENSOR-696,PR-261,Body Lotion 231,25.84,47.49,Alerte Température,Bodycare
+2025-02-02 05:32:31,SENSOR-911,PR-263,Foundation 232,24.66,32.52,Alerte Température & Humidité,Makeup
+2025-02-09 20:04:31,SENSOR-261,PR-265,Hair Serum 233,25.04,58.53,Normal,Haircare
+2025-01-28 07:05:31,SENSOR-714,PR-267,Perfume Oil 234,21.95,42.17,Alerte Température,Fragrance
+2025-01-14 22:40:31,SENSOR-745,PR-269,Eyeliner 235,18.18,40.05,Normal,Makeup
+2025-01-15 18:42:31,SENSOR-758,PR-271,Hair Serum 236,21.99,79.58,Alerte Température & Humidité,Haircare
+2025-02-07 08:25:31,SENSOR-199,PR-273,Eau de Parfum 237,18.71,36.42,Alerte Température,Fragrance
+2025-01-28 12:30:31,SENSOR-825,PR-275,Hand Cream 238,25.77,56.6,Alerte Température,Bodycare
+2025-02-04 15:53:31,SENSOR-192,PR-277,Moisturizer 239,20.64,64.78,Normal,Skincare
+2025-01-27 17:05:31,SENSOR-738,PR-279,Hair Serum 240,20.49,74.75,Alerte Température,Haircare
+2025-02-05 02:24:31,SENSOR-133,PR-281,Moisturizer 241,21.0,66.13,Alerte Humidité,Skincare
+2025-02-01 22:48:31,SENSOR-760,PR-283,Eau de Parfum 242,20.13,31.27,Alerte Humidité,Fragrance
+2025-02-04 12:28:31,SENSOR-199,PR-285,Moisturizer 243,24.97,59.85,Normal,Skincare
+2025-02-01 01:40:31,SENSOR-375,PR-287,Deodorant 244,21.84,39.01,Alerte Température,Fragrance
+2025-01-23 16:26:31,SENSOR-591,PR-289,Eau de Toilette 245,21.86,50.0,Alerte Température & Humidité,Fragrance
+2025-02-06 09:07:31,SENSOR-770,PR-291,Face Serum 246,20.08,41.77,Alerte Humidité,Skincare
+2025-01-18 00:17:31,SENSOR-301,PR-293,Body Scrub 247,21.46,60.39,Normal,Bodycare
+2025-02-09 18:53:31,SENSOR-768,PR-295,Shampoo 248,22.33,73.15,Normal,Haircare
+2025-02-08 04:49:31,SENSOR-903,PR-297,Hand Cream 249,21.55,44.12,Alerte Humidité,Bodycare
+2025-02-04 08:48:31,SENSOR-400,PR-299,Eau de Toilette 250,18.39,33.46,Alerte Température & Humidité,Fragrance
+2025-02-01 16:27:31,SENSOR-155,PR-301,Conditioner 251,26.67,78.48,Alerte Humidité,Haircare
+2025-01-16 06:32:31,SENSOR-463,PR-303,Body Scrub 252,21.19,62.86,Normal,Bodycare
+2025-02-04 18:40:31,SENSOR-655,PR-305,Lipstick 253,17.06,36.61,Normal,Makeup
+2025-01-18 12:29:31,SENSOR-702,PR-307,Mascara 254,15.88,53.67,Alerte Température,Makeup
+2025-02-08 22:40:31,SENSOR-696,PR-309,Perfume Oil 255,18.15,34.81,Alerte Température & Humidité,Fragrance
+2025-02-06 22:24:31,SENSOR-228,PR-311,Perfume Oil 256,21.93,34.1,Alerte Température & Humidité,Fragrance
+2025-01-12 22:03:31,SENSOR-689,PR-313,Lipstick 257,23.99,50.62,Normal,Makeup
+2025-01-25 00:39:31,SENSOR-684,PR-315,Foot Cream 258,25.17,57.68,Alerte Température,Bodycare
+2025-01-12 22:45:31,SENSOR-870,PR-317,Perfume Oil 259,21.21,30.86,Alerte Température & Humidité,Fragrance
+2025-02-11 19:58:31,SENSOR-523,PR-319,Hand Cream 260,19.55,50.23,Normal,Bodycare
+2025-01-15 13:31:31,SENSOR-914,PR-321,Body Scrub 261,19.18,64.81,Normal,Bodycare
+2025-02-10 00:04:31,SENSOR-167,PR-323,Moisturizer 262,21.74,47.77,Normal,Skincare
+2025-02-09 17:06:31,SENSOR-243,PR-325,Deodorant 263,20.93,49.89,Alerte Humidité,Fragrance
+2025-02-04 02:08:31,SENSOR-645,PR-327,Blush 264,19.58,42.35,Normal,Makeup
+2025-01-20 00:03:31,SENSOR-562,PR-329,Eau de Parfum 265,18.82,48.19,Alerte Température & Humidité,Fragrance
+2025-02-09 18:40:31,SENSOR-183,PR-331,Foundation 266,15.08,49.28,Alerte Température,Makeup
+2025-01-28 07:32:31,SENSOR-291,PR-333,Night Cream 267,25.8,45.25,Alerte Température,Skincare
+2025-02-03 12:29:31,SENSOR-379,PR-335,Mascara 268,15.36,40.93,Alerte Température,Makeup
+2025-01-11 21:55:31,SENSOR-712,PR-337,Moisturizer 269,19.63,55.5,Normal,Skincare
+2025-02-03 20:20:31,SENSOR-235,PR-339,Foot Cream 270,20.32,56.9,Normal,Bodycare
+2025-01-16 06:10:31,SENSOR-509,PR-341,Deodorant 271,20.71,37.45,Normal,Fragrance
+2025-01-17 01:49:31,SENSOR-368,PR-343,Foundation 272,15.07,45.48,Alerte Température,Makeup
+2025-02-10 02:32:31,SENSOR-922,PR-345,Lipstick 273,16.21,44.06,Normal,Makeup
+2025-02-08 18:10:31,SENSOR-193,PR-347,Face Serum 274,25.34,55.46,Alerte Température,Skincare
+2025-01-27 10:12:31,SENSOR-520,PR-349,Moisturizer 275,20.66,43.35,Alerte Humidité,Skincare
+2025-01-13 08:17:31,SENSOR-794,PR-351,Deodorant 276,18.99,30.16,Alerte Température & Humidité,Fragrance
+2025-01-24 17:14:31,SENSOR-379,PR-353,Sunscreen 277,22.48,60.59,Normal,Skincare
+2025-02-09 18:14:31,SENSOR-520,PR-355,Face Serum 278,21.71,69.35,Alerte Humidité,Skincare
+2025-01-26 08:20:31,SENSOR-764,PR-357,Conditioner 279,22.72,50.56,Alerte Humidité,Haircare
+2025-01-22 22:10:31,SENSOR-169,PR-359,Body Scrub 280,25.87,53.68,Alerte Température,Bodycare
+2025-02-03 11:21:31,SENSOR-634,PR-361,Perfume Oil 281,20.05,48.73,Alerte Humidité,Fragrance
+2025-02-05 03:23:31,SENSOR-815,PR-363,Night Cream 282,18.24,47.04,Alerte Température,Skincare
+2025-01-13 10:29:31,SENSOR-951,PR-365,Face Serum 283,20.94,51.41,Normal,Skincare
+2025-01-18 11:32:31,SENSOR-640,PR-367,Eau de Parfum 284,21.83,38.04,Alerte Température,Fragrance
+2025-02-03 21:56:31,SENSOR-745,PR-369,Face Wash 285,23.23,50.76,Normal,Skincare
+2025-01-26 23:35:31,SENSOR-833,PR-371,Face Wash 286,18.07,54.59,Alerte Température,Skincare
+2025-02-11 09:25:31,SENSOR-887,PR-373,Foundation 287,15.03,53.81,Alerte Température,Makeup
+2025-01-13 10:15:31,SENSOR-610,PR-375,Eyeliner 288,24.06,59.0,Alerte Température & Humidité,Makeup
+2025-01-17 14:33:31,SENSOR-854,PR-377,Eau de Toilette 289,18.32,38.52,Alerte Température,Fragrance
+2025-02-02 19:51:31,SENSOR-154,PR-379,Hair Mask 290,22.3,60.39,Normal,Haircare
+2025-01-28 12:50:31,SENSOR-548,PR-381,Moisturizer 291,25.0,50.8,Normal,Skincare
+2025-01-26 06:44:31,SENSOR-638,PR-383,Shampoo 292,27.3,75.14,Alerte Température & Humidité,Haircare
+2025-01-19 18:53:31,SENSOR-714,PR-385,Hair Mask 293,24.07,77.65,Alerte Humidité,Haircare
+2025-02-05 02:07:31,SENSOR-180,PR-387,Eau de Toilette 294,21.46,34.07,Alerte Température & Humidité,Fragrance
+2025-01-28 20:07:31,SENSOR-849,PR-389,Body Mist 295,21.51,34.97,Alerte Température & Humidité,Fragrance
+2025-01-20 22:48:31,SENSOR-658,PR-391,Hair Serum 296,26.25,67.78,Normal,Haircare
+2025-01-14 02:35:31,SENSOR-819,PR-393,Hair Oil 297,22.08,61.31,Normal,Haircare
+2025-01-21 17:18:31,SENSOR-298,PR-395,Eyeliner 298,24.21,39.92,Alerte Température,Makeup
+2025-01-17 09:02:31,SENSOR-660,PR-397,Night Cream 299,19.87,40.34,Alerte Humidité,Skincare
+2025-01-22 00:58:31,SENSOR-978,PR-399,Mascara 300,24.13,58.1,Alerte Température & Humidité,Makeup
+2025-02-03 05:24:31,SENSOR-153,PR-401,Shampoo 301,27.37,68.59,Alerte Température,Haircare
+2025-01-30 17:15:31,SENSOR-314,PR-403,Body Mist 302,19.26,46.31,Alerte Humidité,Fragrance
+2025-01-19 23:34:31,SENSOR-547,PR-405,Mascara 303,19.44,58.04,Alerte Humidité,Makeup
+2025-02-01 22:12:31,SENSOR-131,PR-407,Body Wash 304,21.25,44.92,Alerte Humidité,Bodycare
+2025-02-10 08:20:31,SENSOR-721,PR-409,Face Wash 305,21.47,65.55,Alerte Humidité,Skincare
+2025-01-18 18:44:31,SENSOR-125,PR-411,Body Lotion 306,18.42,57.15,Alerte Température,Bodycare
+2025-02-06 22:56:31,SENSOR-118,PR-413,Foot Cream 307,21.51,54.66,Normal,Bodycare
+2025-01-29 10:25:31,SENSOR-104,PR-415,Eau de Parfum 308,18.58,41.69,Alerte Température,Fragrance
+2025-01-21 15:44:31,SENSOR-131,PR-417,Foundation 309,21.0,55.47,Alerte Humidité,Makeup
+2025-02-02 07:14:31,SENSOR-105,PR-419,Moisturizer 310,25.89,57.38,Alerte Température,Skincare
+2025-01-13 20:12:31,SENSOR-505,PR-421,Body Wash 311,20.86,54.47,Normal,Bodycare
+2025-02-01 22:30:31,SENSOR-430,PR-423,Conditioner 312,21.06,55.66,Alerte Température,Haircare
+2025-01-22 05:49:31,SENSOR-472,PR-425,Mascara 313,19.09,58.97,Alerte Humidité,Makeup
+2025-01-31 13:50:31,SENSOR-555,PR-427,Eau de Toilette 314,20.45,36.44,Normal,Fragrance
+2025-01-25 19:49:31,SENSOR-775,PR-429,Mascara 315,15.21,43.44,Alerte Température,Makeup
+2025-01-19 07:28:31,SENSOR-960,PR-431,Perfume Oil 316,20.32,32.98,Alerte Humidité,Fragrance
+2025-02-11 09:02:31,SENSOR-453,PR-433,Night Cream 317,19.18,48.98,Normal,Skincare
+2025-01-26 16:03:31,SENSOR-791,PR-435,Eau de Parfum 318,21.94,45.19,Alerte Température & Humidité,Fragrance
+2025-01-12 21:37:31,SENSOR-467,PR-437,Body Scrub 319,24.29,53.41,Normal,Bodycare
+2025-01-13 18:44:31,SENSOR-116,PR-439,Body Mist 320,21.35,31.56,Alerte Température & Humidité,Fragrance
+2025-01-21 00:56:31,SENSOR-991,PR-441,Body Lotion 321,25.09,60.84,Alerte Température,Bodycare
+2025-01-20 23:54:31,SENSOR-825,PR-443,Hair Serum 322,25.57,73.58,Normal,Haircare
+2025-01-22 16:37:31,SENSOR-332,PR-445,Eau de Parfum 323,20.74,42.27,Normal,Fragrance
+2025-02-10 17:57:31,SENSOR-968,PR-447,Moisturizer 324,25.2,57.11,Alerte Température,Skincare
+2025-01-30 02:28:31,SENSOR-677,PR-449,Deodorant 325,21.07,33.39,Alerte Température & Humidité,Fragrance
+2025-01-16 10:21:31,SENSOR-518,PR-451,Night Cream 326,22.82,62.16,Normal,Skincare
+2025-02-01 14:30:31,SENSOR-985,PR-453,Foundation 327,16.0,43.63,Normal,Makeup
+2025-01-18 03:43:31,SENSOR-645,PR-455,Eyeliner 328,23.41,33.3,Alerte Humidité,Makeup
+2025-02-10 05:38:31,SENSOR-219,PR-457,Conditioner 329,24.34,77.04,Alerte Humidité,Haircare
+2025-01-19 15:07:31,SENSOR-427,PR-459,Conditioner 330,22.91,65.6,Normal,Haircare
+2025-01-25 11:14:31,SENSOR-401,PR-461,Body Lotion 331,20.27,69.8,Alerte Humidité,Bodycare
+2025-02-04 07:54:31,SENSOR-398,PR-463,Moisturizer 332,21.5,58.0,Normal,Skincare
+2025-02-02 22:23:31,SENSOR-512,PR-465,Eau de Parfum 333,20.69,49.94,Alerte Humidité,Fragrance
+2025-01-13 02:41:31,SENSOR-469,PR-467,Body Mist 334,20.19,35.15,Normal,Fragrance
+2025-02-02 17:37:31,SENSOR-623,PR-469,Hair Oil 335,20.91,54.74,Alerte Température & Humidité,Haircare
+2025-02-01 11:24:31,SENSOR-753,PR-471,Moisturizer 336,19.04,54.5,Normal,Skincare
+2025-01-29 20:41:31,SENSOR-119,PR-473,Deodorant 337,18.69,33.02,Alerte Température & Humidité,Fragrance
+2025-02-10 06:42:31,SENSOR-182,PR-475,Moisturizer 338,18.89,50.86,Alerte Température,Skincare
+2025-02-09 10:17:31,SENSOR-497,PR-477,Face Wash 339,22.24,55.41,Normal,Skincare
+2025-01-27 15:59:31,SENSOR-317,PR-479,Body Lotion 340,19.33,58.85,Normal,Bodycare
+2025-01-28 07:47:31,SENSOR-821,PR-481,Blush 341,20.8,48.47,Normal,Makeup
+2025-01-26 01:02:31,SENSOR-610,PR-483,Lipstick 342,21.21,34.22,Alerte Humidité,Makeup
+2025-02-09 08:26:31,SENSOR-580,PR-485,Night Cream 343,20.6,69.12,Alerte Humidité,Skincare
+2025-01-18 03:26:31,SENSOR-343,PR-487,Shampoo 344,20.9,69.91,Alerte Température,Haircare
+2025-01-19 21:47:31,SENSOR-829,PR-489,Eau de Toilette 345,19.64,45.2,Alerte Humidité,Fragrance
+2025-02-09 13:06:31,SENSOR-260,PR-491,Perfume Oil 346,20.44,36.14,Normal,Fragrance
+2025-02-04 21:25:31,SENSOR-268,PR-493,Body Mist 347,21.44,49.91,Alerte Température & Humidité,Fragrance
+2025-02-06 20:04:31,SENSOR-886,PR-495,Deodorant 348,18.66,44.38,Alerte Température,Fragrance
+2025-01-23 03:38:31,SENSOR-882,PR-497,Foundation 349,15.57,52.03,Alerte Température,Makeup
+2025-01-22 00:13:31,SENSOR-855,PR-499,Body Scrub 350,21.82,63.15,Normal,Bodycare
+2025-01-24 12:13:31,SENSOR-154,PR-501,Foundation 351,20.06,46.12,Normal,Makeup
+2025-01-13 12:45:31,SENSOR-230,PR-503,Body Scrub 352,25.61,53.28,Alerte Température,Bodycare
+2025-01-28 06:33:31,SENSOR-599,PR-505,Blush 353,15.96,45.46,Alerte Température,Makeup
+2025-01-17 07:57:31,SENSOR-918,PR-507,Body Mist 354,21.77,44.52,Alerte Température,Fragrance
+2025-01-19 21:08:31,SENSOR-141,PR-509,Lipstick 355,17.11,54.29,Normal,Makeup
+2025-01-31 17:26:31,SENSOR-312,PR-511,Hair Mask 356,27.81,63.58,Alerte Température,Haircare
+2025-02-07 23:32:31,SENSOR-364,PR-513,Body Lotion 357,25.81,49.95,Alerte Température,Bodycare
+2025-01-12 10:49:31,SENSOR-728,PR-515,Hand Cream 358,24.47,59.75,Normal,Bodycare
+2025-02-09 15:31:31,SENSOR-225,PR-517,Body Mist 359,19.59,46.83,Alerte Humidité,Fragrance
+2025-01-28 02:20:31,SENSOR-732,PR-519,Eyeliner 360,18.73,42.49,Normal,Makeup
+2025-02-10 05:17:31,SENSOR-822,PR-521,Body Scrub 361,21.8,54.2,Normal,Bodycare
+2025-01-16 19:58:31,SENSOR-473,PR-523,Moisturizer 362,18.11,52.6,Alerte Température,Skincare
+2025-01-28 02:14:31,SENSOR-371,PR-525,Mascara 363,23.98,53.74,Normal,Makeup
+2025-01-19 02:56:31,SENSOR-778,PR-527,Hand Cream 364,18.82,45.25,Alerte Température,Bodycare
+2025-01-17 22:52:31,SENSOR-996,PR-529,Hair Oil 365,20.55,68.27,Alerte Température,Haircare
+2025-01-25 10:20:31,SENSOR-242,PR-531,Foundation 366,15.2,43.22,Alerte Température,Makeup
+2025-02-08 03:10:31,SENSOR-138,PR-533,Eau de Parfum 367,20.09,34.8,Alerte Humidité,Fragrance
+2025-01-24 16:59:31,SENSOR-208,PR-535,Body Scrub 368,24.33,66.55,Alerte Humidité,Bodycare
+2025-02-04 00:47:31,SENSOR-655,PR-537,Conditioner 369,22.61,65.71,Normal,Haircare
+2025-01-24 07:02:31,SENSOR-983,PR-539,Sunscreen 370,19.33,57.26,Normal,Skincare
+2025-01-13 10:04:31,SENSOR-194,PR-541,Hair Serum 371,20.96,69.94,Alerte Température,Haircare
+2025-01-23 06:32:31,SENSOR-611,PR-543,Eau de Toilette 372,21.34,35.38,Alerte Température,Fragrance
+2025-01-25 11:48:31,SENSOR-452,PR-545,Hair Serum 373,22.82,79.85,Alerte Humidité,Haircare
+2025-01-27 05:32:31,SENSOR-605,PR-547,Conditioner 374,23.12,55.71,Normal,Haircare
+2025-01-28 08:11:31,SENSOR-436,PR-549,Body Scrub 375,22.98,40.57,Alerte Humidité,Bodycare
+2025-01-27 05:48:31,SENSOR-177,PR-551,Eau de Parfum 376,18.16,41.55,Alerte Température,Fragrance
+2025-01-22 23:57:31,SENSOR-243,PR-553,Hand Cream 377,24.61,44.37,Alerte Humidité,Bodycare
+2025-01-19 20:23:31,SENSOR-422,PR-555,Shampoo 378,25.07,57.09,Normal,Haircare
+2025-02-07 12:11:31,SENSOR-205,PR-557,Body Wash 379,20.47,51.53,Normal,Bodycare
+2025-01-15 08:28:31,SENSOR-719,PR-559,Shampoo 380,26.58,52.18,Alerte Humidité,Haircare
+2025-01-25 23:35:31,SENSOR-977,PR-561,Eyeliner 381,19.75,40.34,Normal,Makeup
+2025-02-10 00:09:31,SENSOR-819,PR-563,Night Cream 382,19.31,68.47,Alerte Humidité,Skincare
+2025-02-04 00:51:31,SENSOR-196,PR-565,Moisturizer 383,23.6,55.27,Normal,Skincare
+2025-01-13 07:51:31,SENSOR-937,PR-567,Sunscreen 384,22.68,52.41,Normal,Skincare
+2025-01-27 19:05:31,SENSOR-449,PR-569,Hair Serum 385,25.97,60.13,Normal,Haircare
+2025-02-02 00:38:31,SENSOR-490,PR-571,Mascara 386,20.31,35.02,Normal,Makeup
+2025-01-21 13:02:31,SENSOR-641,PR-573,Sunscreen 387,18.91,53.31,Alerte Température,Skincare
+2025-01-11 22:28:31,SENSOR-188,PR-575,Eyeliner 388,19.0,36.88,Normal,Makeup
+2025-02-06 09:20:31,SENSOR-223,PR-577,Deodorant 389,21.81,37.44,Alerte Température,Fragrance
+2025-01-13 02:40:31,SENSOR-793,PR-579,Foundation 390,21.37,40.58,Normal,Makeup
+2025-02-05 05:20:31,SENSOR-405,PR-581,Face Serum 391,21.05,66.83,Alerte Humidité,Skincare
+2025-02-10 09:53:31,SENSOR-154,PR-583,Foot Cream 392,24.28,42.55,Alerte Humidité,Bodycare
+2025-01-29 08:24:31,SENSOR-240,PR-585,Hair Mask 393,21.27,60.9,Alerte Température,Haircare
+2025-01-18 01:59:31,SENSOR-193,PR-587,Body Scrub 394,25.07,66.12,Alerte Température & Humidité,Bodycare
+2025-01-25 11:31:31,SENSOR-648,PR-589,Hair Oil 395,27.13,68.19,Alerte Température,Haircare
+2025-02-06 22:40:31,SENSOR-457,PR-591,Face Serum 396,19.35,61.68,Normal,Skincare
+2025-01-26 19:29:31,SENSOR-728,PR-593,Hair Mask 397,26.05,50.74,Alerte Humidité,Haircare
+2025-01-13 11:16:31,SENSOR-942,PR-595,Sunscreen 398,18.98,49.96,Alerte Température,Skincare
+2025-01-29 21:36:31,SENSOR-905,PR-597,Face Wash 399,22.19,64.12,Normal,Skincare
+2025-01-19 22:56:31,SENSOR-620,PR-599,Eau de Toilette 400,21.12,46.09,Alerte Température & Humidité,Fragrance
+2025-01-14 02:41:31,SENSOR-750,PR-601,Moisturizer 401,24.09,61.62,Normal,Skincare
+2025-01-24 09:48:31,SENSOR-198,PR-603,Eau de Toilette 402,18.31,40.81,Alerte Température,Fragrance
+2025-01-30 23:41:31,SENSOR-674,PR-605,Conditioner 403,25.16,65.21,Normal,Haircare
+2025-01-22 13:39:31,SENSOR-336,PR-607,Hand Cream 404,20.77,49.16,Normal,Bodycare
+2025-01-18 17:34:31,SENSOR-217,PR-609,Moisturizer 405,19.84,67.56,Alerte Humidité,Skincare
+2025-01-29 16:51:31,SENSOR-490,PR-611,Foundation 406,15.64,37.22,Alerte Température,Makeup
+2025-01-26 02:29:31,SENSOR-863,PR-613,Eyeliner 407,22.67,57.68,Alerte Humidité,Makeup
+2025-01-19 09:22:31,SENSOR-690,PR-615,Eau de Toilette 408,20.67,38.25,Normal,Fragrance
+2025-01-13 04:15:31,SENSOR-482,PR-617,Eyeliner 409,24.15,55.13,Alerte Température & Humidité,Makeup
+2025-01-28 05:31:31,SENSOR-834,PR-619,Eau de Parfum 410,18.62,40.19,Alerte Température,Fragrance
+2025-02-04 09:59:31,SENSOR-451,PR-621,Hair Oil 411,25.23,54.19,Alerte Humidité,Haircare
+2025-02-01 11:32:31,SENSOR-211,PR-623,Hand Cream 412,20.78,50.97,Normal,Bodycare
+2025-01-30 18:30:31,SENSOR-110,PR-625,Face Serum 413,21.17,43.09,Alerte Humidité,Skincare
+2025-01-14 05:38:31,SENSOR-582,PR-627,Body Mist 414,19.02,30.0,Alerte Humidité,Fragrance
+2025-01-28 02:06:31,SENSOR-986,PR-629,Foundation 415,23.53,51.41,Normal,Makeup
+2025-01-25 18:09:31,SENSOR-103,PR-631,Hair Serum 416,20.13,71.71,Alerte Température,Haircare
+2025-01-17 17:34:31,SENSOR-241,PR-633,Shampoo 417,27.57,75.57,Alerte Température & Humidité,Haircare
+2025-02-04 13:47:31,SENSOR-945,PR-635,Face Serum 418,20.88,61.31,Normal,Skincare
+2025-01-11 21:23:31,SENSOR-417,PR-637,Hand Cream 419,22.28,46.26,Normal,Bodycare
+2025-01-12 21:43:31,SENSOR-240,PR-639,Hand Cream 420,25.53,41.01,Alerte Température & Humidité,Bodycare
+2025-02-09 02:52:31,SENSOR-152,PR-641,Lipstick 421,23.27,56.5,Alerte Humidité,Makeup
+2025-02-09 08:12:31,SENSOR-335,PR-643,Eyeliner 422,18.57,34.39,Alerte Humidité,Makeup
+2025-02-02 12:18:31,SENSOR-934,PR-645,Deodorant 423,20.1,38.51,Normal,Fragrance
+2025-01-20 11:40:31,SENSOR-250,PR-647,Perfume Oil 424,20.14,32.51,Alerte Humidité,Fragrance
+2025-02-10 16:36:31,SENSOR-862,PR-649,Eau de Toilette 425,20.2,43.39,Normal,Fragrance
+2025-02-03 22:45:31,SENSOR-288,PR-651,Hair Serum 426,20.42,72.84,Alerte Température,Haircare
+2025-02-05 16:23:31,SENSOR-472,PR-653,Body Wash 427,19.46,62.14,Normal,Bodycare
+2025-01-31 10:54:31,SENSOR-900,PR-655,Lipstick 428,23.24,47.79,Normal,Makeup
+2025-02-08 11:03:31,SENSOR-620,PR-657,Body Wash 429,20.0,40.01,Alerte Humidité,Bodycare
+2025-02-08 22:02:31,SENSOR-780,PR-659,Perfume Oil 430,22.0,41.21,Alerte Température,Fragrance
+2025-01-21 02:50:31,SENSOR-807,PR-661,Hair Mask 431,26.59,50.86,Alerte Humidité,Haircare
+2025-02-09 16:23:31,SENSOR-667,PR-663,Body Lotion 432,21.85,53.77,Normal,Bodycare
+2025-01-14 14:34:31,SENSOR-808,PR-665,Body Scrub 433,25.36,52.55,Alerte Température,Bodycare
+2025-02-10 15:40:31,SENSOR-590,PR-667,Eyeliner 434,18.11,48.04,Normal,Makeup
+2025-01-13 23:57:31,SENSOR-781,PR-669,Night Cream 435,19.55,60.5,Normal,Skincare
+2025-01-22 06:45:31,SENSOR-639,PR-671,Hair Oil 436,24.54,75.01,Alerte Humidité,Haircare
+2025-01-22 16:03:31,SENSOR-991,PR-673,Deodorant 437,18.95,39.7,Alerte Température,Fragrance
+2025-01-31 20:45:31,SENSOR-628,PR-675,Foot Cream 438,19.57,45.61,Normal,Bodycare
+2025-01-17 05:41:31,SENSOR-150,PR-677,Eyeliner 439,20.6,32.41,Alerte Humidité,Makeup
+2025-01-21 02:54:31,SENSOR-113,PR-679,Deodorant 440,19.92,49.57,Alerte Humidité,Fragrance
+2025-01-19 03:43:31,SENSOR-713,PR-681,Hair Serum 441,27.86,51.68,Alerte Température & Humidité,Haircare
+2025-01-27 16:33:31,SENSOR-369,PR-683,Face Serum 442,18.31,63.02,Alerte Température,Skincare
+2025-02-03 13:30:31,SENSOR-830,PR-685,Foot Cream 443,19.99,40.58,Alerte Humidité,Bodycare
+2025-02-01 19:24:31,SENSOR-114,PR-687,Night Cream 444,23.77,41.02,Alerte Humidité,Skincare
+2025-02-01 17:21:31,SENSOR-895,PR-689,Night Cream 445,21.85,50.0,Normal,Skincare
+2025-02-06 14:07:31,SENSOR-933,PR-691,Body Mist 446,21.4,32.38,Alerte Température & Humidité,Fragrance
+2025-01-15 22:34:31,SENSOR-861,PR-693,Lipstick 447,21.69,46.64,Normal,Makeup
+2025-01-18 08:04:31,SENSOR-100,PR-695,Foot Cream 448,25.84,54.67,Alerte Température,Bodycare
+2025-01-23 06:20:31,SENSOR-927,PR-697,Foot Cream 449,21.11,49.63,Normal,Bodycare
+2025-01-20 17:19:31,SENSOR-233,PR-699,Deodorant 450,19.07,39.5,Normal,Fragrance
+2025-02-02 22:55:31,SENSOR-315,PR-701,Face Serum 451,21.13,58.8,Normal,Skincare
+2025-01-12 09:56:31,SENSOR-789,PR-703,Mascara 452,18.11,45.06,Normal,Makeup
+2025-01-20 07:56:31,SENSOR-676,PR-705,Sunscreen 453,18.78,57.13,Alerte Température,Skincare
+2025-01-18 07:18:31,SENSOR-806,PR-707,Hand Cream 454,21.78,56.91,Normal,Bodycare
+2025-01-20 07:56:31,SENSOR-425,PR-709,Foundation 455,18.07,51.55,Normal,Makeup
+2025-01-28 09:17:31,SENSOR-416,PR-711,Blush 456,15.02,49.4,Alerte Température,Makeup
+2025-02-03 08:52:31,SENSOR-577,PR-713,Eyeliner 457,17.14,50.87,Normal,Makeup
+2025-01-25 09:31:31,SENSOR-718,PR-715,Perfume Oil 458,21.7,38.98,Alerte Température,Fragrance
+2025-01-21 01:47:31,SENSOR-306,PR-717,Body Lotion 459,24.59,46.63,Normal,Bodycare
+2025-01-27 12:15:31,SENSOR-993,PR-719,Body Lotion 460,22.54,43.53,Alerte Humidité,Bodycare
+2025-01-20 23:36:31,SENSOR-521,PR-721,Night Cream 461,21.97,58.68,Normal,Skincare
+2025-01-26 17:59:31,SENSOR-802,PR-723,Eau de Parfum 462,20.99,39.22,Normal,Fragrance
+2025-01-25 23:10:31,SENSOR-481,PR-725,Body Lotion 463,24.74,47.47,Normal,Bodycare
+2025-01-22 10:27:31,SENSOR-974,PR-727,Lipstick 464,20.82,42.89,Normal,Makeup
+2025-02-01 12:41:31,SENSOR-555,PR-729,Face Serum 465,25.22,41.73,Alerte Température & Humidité,Skincare
+2025-02-04 01:25:31,SENSOR-539,PR-731,Hair Serum 466,27.36,64.33,Alerte Température,Haircare
+2025-02-08 17:41:31,SENSOR-760,PR-733,Foot Cream 467,21.73,56.87,Normal,Bodycare
+2025-02-07 04:21:31,SENSOR-634,PR-735,Blush 468,17.43,55.16,Alerte Humidité,Makeup
+2025-01-13 04:02:31,SENSOR-254,PR-737,Conditioner 469,26.21,62.77,Normal,Haircare
+2025-01-31 22:58:31,SENSOR-334,PR-739,Night Cream 470,22.92,41.1,Alerte Humidité,Skincare
+2025-02-11 18:29:31,SENSOR-262,PR-741,Body Lotion 471,21.08,59.48,Normal,Bodycare
+2025-01-18 14:57:31,SENSOR-852,PR-743,Eau de Parfum 472,20.02,38.93,Normal,Fragrance
+2025-01-25 15:27:31,SENSOR-411,PR-745,Hair Oil 473,27.76,50.08,Alerte Température & Humidité,Haircare
+2025-01-19 03:26:31,SENSOR-427,PR-747,Lipstick 474,23.62,34.71,Alerte Humidité,Makeup
+2025-01-24 06:46:31,SENSOR-130,PR-749,Body Wash 475,24.65,42.39,Alerte Humidité,Bodycare
+2025-01-25 23:55:31,SENSOR-841,PR-751,Perfume Oil 476,20.99,34.12,Alerte Humidité,Fragrance
+2025-01-13 11:01:31,SENSOR-378,PR-753,Conditioner 477,25.7,56.41,Normal,Haircare
+2025-02-06 10:57:31,SENSOR-388,PR-755,Body Mist 478,19.38,42.69,Normal,Fragrance
+2025-01-16 02:40:31,SENSOR-729,PR-757,Body Lotion 479,19.81,68.58,Alerte Humidité,Bodycare
+2025-02-08 05:57:31,SENSOR-839,PR-759,Hair Serum 480,22.68,64.45,Normal,Haircare
+2025-01-16 02:55:31,SENSOR-603,PR-761,Body Mist 481,19.49,39.01,Normal,Fragrance
+2025-01-23 11:14:31,SENSOR-703,PR-763,Eau de Parfum 482,21.8,46.23,Alerte Température & Humidité,Fragrance
+2025-01-17 15:04:31,SENSOR-807,PR-765,Hair Oil 483,26.42,53.95,Alerte Humidité,Haircare
+2025-01-17 04:38:31,SENSOR-623,PR-767,Eau de Toilette 484,20.97,42.35,Normal,Fragrance
+2025-01-19 02:48:31,SENSOR-490,PR-769,Body Scrub 485,24.07,48.26,Normal,Bodycare
+2025-01-25 17:56:31,SENSOR-905,PR-771,Eau de Toilette 486,20.84,44.91,Normal,Fragrance
+2025-01-28 09:21:31,SENSOR-412,PR-773,Body Wash 487,23.96,44.7,Alerte Humidité,Bodycare
+2025-02-08 11:10:31,SENSOR-142,PR-775,Eyeliner 488,23.48,45.05,Normal,Makeup
+2025-01-24 14:21:31,SENSOR-347,PR-777,Moisturizer 489,20.55,50.33,Normal,Skincare
+2025-02-07 01:32:31,SENSOR-672,PR-779,Lipstick 490,16.16,49.06,Normal,Makeup
+2025-01-29 13:31:31,SENSOR-336,PR-781,Night Cream 491,18.97,60.67,Alerte Température,Skincare
+2025-01-24 15:03:31,SENSOR-817,PR-783,Sunscreen 492,18.76,59.65,Alerte Température,Skincare
+2025-01-31 10:44:31,SENSOR-836,PR-785,Face Wash 493,24.36,67.62,Alerte Humidité,Skincare
+2025-02-02 05:58:31,SENSOR-841,PR-787,Shampoo 494,20.48,59.26,Alerte Température,Haircare
+2025-01-15 06:48:31,SENSOR-936,PR-789,Body Mist 495,18.24,46.54,Alerte Température & Humidité,Fragrance
+2025-02-10 03:17:31,SENSOR-502,PR-791,Hair Oil 496,21.84,74.81,Alerte Température,Haircare
+2025-01-28 02:43:31,SENSOR-823,PR-793,Blush 497,15.12,42.24,Alerte Température,Makeup
+2025-01-12 16:28:31,SENSOR-563,PR-795,Face Wash 498,18.11,66.7,Alerte Température & Humidité,Skincare
+2025-01-27 11:37:31,SENSOR-204,PR-797,Eyeliner 499,19.94,43.71,Normal,Makeup
+2025-01-24 03:48:31,SENSOR-621,PR-799,Hand Cream 500,25.68,43.08,Alerte Température & Humidité,Bodycare
+2025-01-13 07:47:31,SENSOR-776,PR-801,Sunscreen 501,20.12,50.84,Normal,Skincare
+2025-02-03 10:05:31,SENSOR-539,PR-803,Body Mist 502,18.72,38.35,Alerte Température,Fragrance
+2025-01-24 14:04:31,SENSOR-743,PR-805,Eyeliner 503,23.7,59.68,Alerte Humidité,Makeup
+2025-01-29 19:02:31,SENSOR-318,PR-807,Perfume Oil 504,20.43,32.25,Alerte Humidité,Fragrance
+2025-01-17 08:16:31,SENSOR-790,PR-809,Hair Oil 505,22.63,71.47,Normal,Haircare
+2025-02-03 15:31:31,SENSOR-357,PR-811,Sunscreen 506,19.82,56.49,Normal,Skincare
+2025-01-31 03:34:31,SENSOR-204,PR-813,Moisturizer 507,19.28,60.62,Normal,Skincare
+2025-02-10 04:41:31,SENSOR-284,PR-815,Body Wash 508,19.15,68.98,Alerte Humidité,Bodycare
+2025-02-09 13:45:31,SENSOR-364,PR-817,Eau de Toilette 509,21.94,44.02,Alerte Température,Fragrance
+2025-02-02 05:58:31,SENSOR-889,PR-819,Body Scrub 510,25.73,41.22,Alerte Température & Humidité,Bodycare
+2025-01-30 18:12:31,SENSOR-300,PR-821,Hair Oil 511,23.03,69.55,Normal,Haircare
+2025-01-15 14:05:31,SENSOR-105,PR-823,Body Lotion 512,25.64,57.63,Alerte Température,Bodycare
+2025-01-24 04:14:31,SENSOR-736,PR-825,Foundation 513,20.53,57.52,Alerte Humidité,Makeup
+2025-02-01 05:12:31,SENSOR-888,PR-827,Conditioner 514,21.68,55.03,Alerte Température,Haircare
+2025-01-13 13:29:31,SENSOR-733,PR-829,Face Wash 515,18.22,55.89,Alerte Température,Skincare
+2025-01-12 20:00:31,SENSOR-712,PR-831,Conditioner 516,27.98,71.85,Alerte Température,Haircare
+2025-01-22 17:19:31,SENSOR-784,PR-833,Body Wash 517,24.65,43.42,Alerte Humidité,Bodycare
+2025-01-16 07:23:31,SENSOR-519,PR-835,Hand Cream 518,21.21,47.71,Normal,Bodycare
+2025-02-09 20:25:31,SENSOR-283,PR-837,Perfume Oil 519,20.98,38.82,Normal,Fragrance
+2025-01-30 07:34:31,SENSOR-278,PR-839,Lipstick 520,24.09,57.92,Alerte Température & Humidité,Makeup
+2025-02-10 11:57:31,SENSOR-160,PR-841,Hair Oil 521,27.48,51.48,Alerte Température & Humidité,Haircare
+2025-01-13 11:02:31,SENSOR-435,PR-843,Sunscreen 522,24.16,52.82,Normal,Skincare
+2025-01-16 19:16:31,SENSOR-662,PR-845,Body Scrub 523,24.45,43.22,Alerte Humidité,Bodycare
+2025-01-17 01:24:31,SENSOR-304,PR-847,Blush 524,19.95,30.31,Alerte Humidité,Makeup
+2025-01-14 00:00:31,SENSOR-606,PR-849,Moisturizer 525,21.63,59.24,Normal,Skincare
+2025-01-24 15:41:31,SENSOR-442,PR-851,Eau de Toilette 526,18.9,32.96,Alerte Température & Humidité,Fragrance
+2025-01-25 07:59:31,SENSOR-916,PR-853,Conditioner 527,22.63,73.1,Normal,Haircare
+2025-02-03 04:03:31,SENSOR-426,PR-855,Lipstick 528,17.58,48.5,Normal,Makeup
+2025-02-02 11:44:31,SENSOR-377,PR-857,Body Scrub 529,22.2,69.46,Alerte Humidité,Bodycare
+2025-02-04 17:08:31,SENSOR-168,PR-859,Body Lotion 530,23.12,51.82,Normal,Bodycare
+2025-01-31 09:30:31,SENSOR-662,PR-861,Mascara 531,18.3,30.89,Alerte Humidité,Makeup
+2025-01-23 17:32:31,SENSOR-115,PR-863,Foot Cream 532,18.12,40.11,Alerte Température & Humidité,Bodycare
+2025-01-14 03:24:31,SENSOR-450,PR-865,Lipstick 533,19.96,32.73,Alerte Humidité,Makeup
+2025-01-23 18:19:31,SENSOR-618,PR-867,Eau de Parfum 534,21.81,33.71,Alerte Température & Humidité,Fragrance
+2025-01-15 00:03:31,SENSOR-143,PR-869,Foot Cream 535,18.62,42.19,Alerte Température & Humidité,Bodycare
+2025-01-18 05:34:31,SENSOR-439,PR-871,Hair Oil 536,21.23,57.21,Alerte Température,Haircare
+2025-01-12 02:11:31,SENSOR-952,PR-873,Foot Cream 537,20.91,68.28,Alerte Humidité,Bodycare
+2025-01-16 16:05:31,SENSOR-307,PR-875,Blush 538,24.68,49.48,Alerte Température,Makeup
+2025-02-10 19:45:31,SENSOR-760,PR-877,Eau de Toilette 539,18.64,30.56,Alerte Température & Humidité,Fragrance
+2025-01-22 09:45:31,SENSOR-947,PR-879,Shampoo 540,25.3,75.44,Alerte Humidité,Haircare
+2025-02-04 21:56:31,SENSOR-440,PR-881,Hair Oil 541,24.96,54.01,Alerte Humidité,Haircare
+2025-01-21 10:15:31,SENSOR-845,PR-883,Lipstick 542,19.92,31.06,Alerte Humidité,Makeup
+2025-01-14 22:05:31,SENSOR-772,PR-885,Deodorant 543,18.16,37.34,Alerte Température,Fragrance
+2025-02-11 12:23:31,SENSOR-781,PR-887,Foundation 544,19.31,47.34,Normal,Makeup
+2025-01-27 15:14:31,SENSOR-715,PR-889,Moisturizer 545,22.09,60.17,Normal,Skincare
+2025-01-19 02:26:31,SENSOR-564,PR-891,Foundation 546,22.33,34.66,Alerte Humidité,Makeup
+2025-01-30 01:12:31,SENSOR-479,PR-893,Night Cream 547,20.72,58.74,Normal,Skincare
+2025-01-21 23:28:31,SENSOR-619,PR-895,Hand Cream 548,21.53,63.53,Normal,Bodycare
+2025-02-04 15:32:31,SENSOR-532,PR-897,Foot Cream 549,22.79,69.86,Alerte Humidité,Bodycare
+2025-01-14 07:18:31,SENSOR-488,PR-899,Night Cream 550,18.02,40.91,Alerte Température & Humidité,Skincare
+2025-01-27 07:19:31,SENSOR-240,PR-901,Blush 551,19.62,56.11,Alerte Humidité,Makeup
+2025-02-01 02:59:31,SENSOR-708,PR-903,Hair Mask 552,20.0,79.29,Alerte Température & Humidité,Haircare
+2025-01-31 10:37:31,SENSOR-381,PR-905,Hair Oil 553,21.13,63.66,Alerte Température,Haircare
+2025-01-16 01:01:31,SENSOR-608,PR-907,Face Wash 554,24.65,50.29,Normal,Skincare
+2025-01-24 14:18:31,SENSOR-780,PR-909,Moisturizer 555,19.29,61.35,Normal,Skincare
+2025-01-26 22:32:31,SENSOR-335,PR-911,Eau de Parfum 556,19.5,32.93,Alerte Humidité,Fragrance
+2025-02-04 19:12:31,SENSOR-976,PR-913,Perfume Oil 557,21.16,46.21,Alerte Température & Humidité,Fragrance
+2025-01-14 14:12:31,SENSOR-698,PR-915,Perfume Oil 558,21.56,49.87,Alerte Température & Humidité,Fragrance
+2025-02-10 23:58:31,SENSOR-449,PR-917,Mascara 559,20.44,47.46,Normal,Makeup
+2025-02-03 19:26:31,SENSOR-701,PR-919,Blush 560,19.16,58.83,Alerte Humidité,Makeup
+2025-01-29 12:32:31,SENSOR-157,PR-921,Sunscreen 561,19.1,60.19,Normal,Skincare
+2025-01-23 22:46:31,SENSOR-225,PR-923,Face Serum 562,23.34,41.76,Alerte Humidité,Skincare
+2025-02-07 23:31:31,SENSOR-535,PR-925,Eau de Parfum 563,21.29,37.06,Alerte Température,Fragrance
+2025-01-15 13:51:31,SENSOR-322,PR-927,Perfume Oil 564,19.78,49.87,Alerte Humidité,Fragrance
+2025-02-10 00:21:31,SENSOR-232,PR-929,Foundation 565,22.59,37.2,Normal,Makeup
+2025-01-16 00:03:31,SENSOR-553,PR-931,Deodorant 566,19.06,48.38,Alerte Humidité,Fragrance
+2025-01-23 04:58:31,SENSOR-790,PR-933,Hair Mask 567,27.25,74.05,Alerte Température,Haircare
+2025-01-12 22:57:31,SENSOR-666,PR-935,Hand Cream 568,18.38,65.38,Alerte Température & Humidité,Bodycare
+2025-01-30 12:43:31,SENSOR-541,PR-937,Perfume Oil 569,21.47,41.32,Alerte Température,Fragrance
+2025-02-01 03:03:31,SENSOR-531,PR-939,Hair Serum 570,25.25,51.27,Alerte Humidité,Haircare
+2025-02-07 14:58:31,SENSOR-257,PR-941,Deodorant 571,19.85,31.57,Alerte Humidité,Fragrance
+2025-02-06 23:06:31,SENSOR-294,PR-943,Body Wash 572,25.18,66.91,Alerte Température & Humidité,Bodycare
+2025-02-10 23:56:31,SENSOR-653,PR-945,Eau de Parfum 573,20.78,46.04,Alerte Humidité,Fragrance
+2025-02-06 12:57:31,SENSOR-827,PR-947,Body Mist 574,21.71,30.9,Alerte Température & Humidité,Fragrance
+2025-01-25 10:02:31,SENSOR-595,PR-949,Moisturizer 575,23.18,66.04,Alerte Humidité,Skincare
+2025-01-28 08:24:31,SENSOR-386,PR-951,Conditioner 576,23.01,58.57,Normal,Haircare
+2025-01-20 08:47:31,SENSOR-207,PR-953,Face Wash 577,23.35,60.98,Normal,Skincare
+2025-01-25 10:54:31,SENSOR-307,PR-955,Deodorant 578,19.79,40.6,Normal,Fragrance
+2025-01-25 01:08:31,SENSOR-600,PR-957,Face Wash 579,18.89,42.24,Alerte Température & Humidité,Skincare
+2025-01-20 04:33:31,SENSOR-229,PR-959,Moisturizer 580,23.57,57.88,Normal,Skincare
+2025-01-31 00:59:31,SENSOR-377,PR-961,Hand Cream 581,23.73,49.8,Normal,Bodycare
+2025-01-30 13:03:31,SENSOR-982,PR-963,Foot Cream 582,20.48,69.03,Alerte Humidité,Bodycare
+2025-01-14 17:50:31,SENSOR-769,PR-965,Shampoo 583,26.98,58.95,Normal,Haircare
+2025-01-26 21:19:31,SENSOR-847,PR-967,Sunscreen 584,25.02,41.58,Alerte Température & Humidité,Skincare
+2025-02-06 19:40:31,SENSOR-508,PR-969,Deodorant 585,21.38,40.95,Alerte Température,Fragrance
+2025-01-13 23:58:31,SENSOR-258,PR-971,Foot Cream 586,19.96,44.32,Alerte Humidité,Bodycare
+2025-02-05 16:48:31,SENSOR-546,PR-973,Face Serum 587,22.73,51.14,Normal,Skincare
+2025-02-06 04:23:31,SENSOR-429,PR-975,Perfume Oil 588,20.08,42.75,Normal,Fragrance
+2025-01-25 02:21:31,SENSOR-420,PR-977,Body Scrub 589,22.5,58.99,Normal,Bodycare
+2025-02-03 18:42:31,SENSOR-759,PR-979,Foot Cream 590,22.96,65.38,Alerte Humidité,Bodycare
+2025-01-23 07:50:31,SENSOR-685,PR-981,Conditioner 591,23.7,50.66,Alerte Humidité,Haircare
+2025-01-22 08:58:31,SENSOR-750,PR-983,Blush 592,16.69,59.97,Alerte Humidité,Makeup
+2025-01-20 14:06:31,SENSOR-427,PR-985,Face Wash 593,24.26,44.25,Alerte Humidité,Skincare
+2025-01-23 04:37:31,SENSOR-122,PR-987,Deodorant 594,20.33,39.26,Normal,Fragrance
+2025-01-17 09:14:31,SENSOR-404,PR-989,Moisturizer 595,21.75,46.45,Normal,Skincare
+2025-02-07 04:09:31,SENSOR-589,PR-991,Deodorant 596,21.6,47.97,Alerte Température & Humidité,Fragrance
+2025-01-20 16:57:31,SENSOR-290,PR-993,Blush 597,22.11,58.54,Alerte Humidité,Makeup
+2025-01-20 01:55:31,SENSOR-424,PR-995,Eau de Parfum 598,20.7,40.13,Normal,Fragrance
+2025-01-29 06:38:31,SENSOR-764,PR-997,Eau de Parfum 599,19.68,43.11,Normal,Fragrance
+2025-01-28 23:49:31,SENSOR-267,PR-999,Sunscreen 600,18.58,60.42,Alerte Température,Skincare
+2025-01-21 16:44:31,SENSOR-794,PR-1001,Hair Mask 601,27.61,54.96,Alerte Température & Humidité,Haircare
+2025-02-08 19:40:31,SENSOR-146,PR-1003,Foot Cream 602,24.08,48.12,Normal,Bodycare
+2025-01-29 04:54:31,SENSOR-855,PR-1005,Foot Cream 603,22.58,51.86,Normal,Bodycare
+2025-01-22 17:07:31,SENSOR-958,PR-1007,Sunscreen 604,24.76,50.08,Normal,Skincare
+2025-01-26 18:34:31,SENSOR-769,PR-1009,Body Mist 605,20.56,32.66,Alerte Humidité,Fragrance
+2025-01-12 16:42:31,SENSOR-474,PR-1011,Eau de Toilette 606,21.44,30.28,Alerte Température & Humidité,Fragrance
+2025-01-20 21:44:31,SENSOR-191,PR-1013,Blush 607,21.8,31.94,Alerte Humidité,Makeup
+2025-01-15 17:23:31,SENSOR-534,PR-1015,Hand Cream 608,21.98,40.12,Alerte Humidité,Bodycare
+2025-02-05 01:41:31,SENSOR-870,PR-1017,Hand Cream 609,23.32,55.78,Normal,Bodycare
+2025-02-08 10:38:31,SENSOR-830,PR-1019,Face Wash 610,24.68,57.93,Normal,Skincare
+2025-01-24 12:14:31,SENSOR-489,PR-1021,Face Wash 611,25.89,45.89,Alerte Température,Skincare
+2025-01-16 17:54:31,SENSOR-185,PR-1023,Body Lotion 612,21.25,46.38,Normal,Bodycare
+2025-01-22 08:50:31,SENSOR-300,PR-1025,Hand Cream 613,25.19,48.74,Alerte Température,Bodycare
+2025-02-06 12:12:31,SENSOR-576,PR-1027,Foundation 614,16.78,30.51,Alerte Humidité,Makeup
+2025-01-18 16:11:31,SENSOR-940,PR-1029,Eau de Toilette 615,20.15,30.13,Alerte Humidité,Fragrance
+2025-01-28 02:49:31,SENSOR-514,PR-1031,Sunscreen 616,22.92,41.25,Alerte Humidité,Skincare
+2025-02-02 18:54:31,SENSOR-670,PR-1033,Sunscreen 617,22.79,58.83,Normal,Skincare
+2025-01-14 09:58:31,SENSOR-271,PR-1035,Body Scrub 618,25.46,53.36,Alerte Température,Bodycare
+2025-02-08 05:40:31,SENSOR-353,PR-1037,Body Mist 619,20.07,30.85,Alerte Humidité,Fragrance
+2025-02-11 13:25:31,SENSOR-983,PR-1039,Body Lotion 620,23.95,67.66,Alerte Humidité,Bodycare
+2025-01-23 13:25:31,SENSOR-185,PR-1041,Foot Cream 621,19.54,49.84,Normal,Bodycare
+2025-02-11 08:43:31,SENSOR-410,PR-1043,Hair Serum 622,20.05,52.17,Alerte Température & Humidité,Haircare
+2025-02-02 16:28:31,SENSOR-256,PR-1045,Conditioner 623,22.31,60.96,Normal,Haircare
+2025-02-05 08:48:31,SENSOR-800,PR-1047,Body Wash 624,24.13,47.07,Normal,Bodycare
+2025-02-01 08:17:31,SENSOR-915,PR-1049,Perfume Oil 625,20.46,30.09,Alerte Humidité,Fragrance
+2025-01-13 15:16:31,SENSOR-509,PR-1051,Night Cream 626,18.31,66.11,Alerte Température & Humidité,Skincare
+2025-01-26 23:44:31,SENSOR-316,PR-1053,Body Lotion 627,24.24,52.47,Normal,Bodycare
+2025-01-25 16:54:31,SENSOR-272,PR-1055,Eyeliner 628,23.67,48.53,Normal,Makeup
+2025-01-21 15:49:31,SENSOR-226,PR-1057,Perfume Oil 629,20.73,31.14,Alerte Humidité,Fragrance
+2025-02-02 17:58:31,SENSOR-434,PR-1059,Foundation 630,23.99,37.41,Normal,Makeup
+2025-01-19 12:43:31,SENSOR-179,PR-1061,Perfume Oil 631,19.84,48.04,Alerte Humidité,Fragrance
+2025-01-28 04:35:31,SENSOR-310,PR-1063,Eau de Parfum 632,21.84,45.48,Alerte Température & Humidité,Fragrance
+2025-01-21 18:11:31,SENSOR-641,PR-1065,Body Scrub 633,22.84,45.34,Normal,Bodycare
+2025-02-09 05:02:31,SENSOR-971,PR-1067,Hair Mask 634,27.83,77.94,Alerte Température & Humidité,Haircare
+2025-02-05 14:42:31,SENSOR-188,PR-1069,Body Mist 635,20.97,46.31,Alerte Humidité,Fragrance
+2025-02-10 00:34:31,SENSOR-870,PR-1071,Lipstick 636,19.55,40.14,Normal,Makeup
+2025-01-18 01:21:31,SENSOR-382,PR-1073,Mascara 637,24.7,52.79,Alerte Température,Makeup
+2025-01-18 20:32:31,SENSOR-189,PR-1075,Sunscreen 638,25.47,60.86,Alerte Température,Skincare
+2025-01-13 04:31:31,SENSOR-244,PR-1077,Body Wash 639,20.64,43.14,Alerte Humidité,Bodycare
+2025-02-03 18:29:31,SENSOR-811,PR-1079,Foot Cream 640,25.19,50.69,Alerte Température,Bodycare
+2025-01-30 08:10:31,SENSOR-646,PR-1081,Deodorant 641,20.86,46.97,Alerte Humidité,Fragrance
+2025-02-02 18:54:31,SENSOR-922,PR-1083,Conditioner 642,24.93,68.8,Normal,Haircare
+2025-01-26 08:47:31,SENSOR-918,PR-1085,Body Scrub 643,24.22,51.95,Normal,Bodycare
+2025-02-01 07:59:31,SENSOR-404,PR-1087,Eyeliner 644,18.1,35.0,Normal,Makeup
+2025-01-28 15:02:31,SENSOR-182,PR-1089,Eau de Parfum 645,19.07,35.34,Normal,Fragrance
+2025-01-20 11:46:31,SENSOR-622,PR-1091,Body Scrub 646,18.44,56.45,Alerte Température,Bodycare
+2025-01-16 14:09:31,SENSOR-860,PR-1093,Hand Cream 647,23.28,44.02,Alerte Humidité,Bodycare
+2025-01-20 09:32:31,SENSOR-158,PR-1095,Hair Serum 648,22.93,52.17,Alerte Humidité,Haircare
+2025-02-04 19:55:31,SENSOR-450,PR-1097,Foundation 649,23.37,58.69,Alerte Humidité,Makeup
+2025-01-24 21:36:31,SENSOR-974,PR-1099,Body Wash 650,20.45,62.91,Normal,Bodycare
+2025-01-31 06:04:31,SENSOR-236,PR-1101,Face Wash 651,24.19,53.61,Normal,Skincare
+2025-01-24 21:21:31,SENSOR-992,PR-1103,Mascara 652,20.53,59.54,Alerte Humidité,Makeup
+2025-01-25 17:57:31,SENSOR-375,PR-1105,Foundation 653,15.15,31.21,Alerte Température & Humidité,Makeup
+2025-02-02 22:25:31,SENSOR-830,PR-1107,Lipstick 654,23.85,55.21,Alerte Humidité,Makeup
+2025-01-16 17:29:31,SENSOR-567,PR-1109,Hair Serum 655,24.26,77.83,Alerte Humidité,Haircare
+2025-02-08 02:37:31,SENSOR-444,PR-1111,Foundation 656,15.94,43.49,Alerte Température,Makeup
+2025-01-29 09:30:31,SENSOR-488,PR-1113,Foundation 657,24.58,48.53,Alerte Température,Makeup
+2025-02-03 13:12:31,SENSOR-863,PR-1115,Foot Cream 658,19.9,63.71,Normal,Bodycare
+2025-02-02 08:35:31,SENSOR-639,PR-1117,Shampoo 659,20.82,79.11,Alerte Température & Humidité,Haircare
+2025-01-25 04:08:31,SENSOR-355,PR-1119,Eau de Parfum 660,21.98,48.37,Alerte Température & Humidité,Fragrance
+2025-01-30 11:13:31,SENSOR-892,PR-1121,Foot Cream 661,24.7,66.44,Alerte Humidité,Bodycare
+2025-02-06 08:41:31,SENSOR-404,PR-1123,Body Scrub 662,20.44,54.73,Normal,Bodycare
+2025-02-01 13:03:31,SENSOR-364,PR-1125,Body Wash 663,19.96,63.78,Normal,Bodycare
+2025-01-18 06:24:31,SENSOR-745,PR-1127,Deodorant 664,18.83,36.34,Alerte Température,Fragrance
+2025-01-17 23:39:31,SENSOR-434,PR-1129,Eau de Parfum 665,21.87,39.71,Alerte Température,Fragrance
+2025-02-08 11:31:31,SENSOR-167,PR-1131,Night Cream 666,21.65,54.41,Normal,Skincare
+2025-01-20 17:40:31,SENSOR-744,PR-1133,Hair Serum 667,21.04,54.09,Alerte Température & Humidité,Haircare
+2025-01-18 16:07:31,SENSOR-500,PR-1135,Moisturizer 668,25.47,61.35,Alerte Température,Skincare
+2025-01-15 13:03:31,SENSOR-989,PR-1137,Hair Oil 669,24.31,68.27,Normal,Haircare
+2025-01-22 18:52:31,SENSOR-774,PR-1139,Conditioner 670,25.48,77.34,Alerte Humidité,Haircare
+2025-02-01 08:25:31,SENSOR-143,PR-1141,Perfume Oil 671,18.14,43.12,Alerte Température,Fragrance
+2025-02-04 10:50:31,SENSOR-172,PR-1143,Hair Serum 672,24.6,53.35,Alerte Humidité,Haircare
+2025-01-18 14:19:31,SENSOR-141,PR-1145,Foundation 673,15.21,56.81,Alerte Température & Humidité,Makeup
+2025-01-16 18:15:31,SENSOR-691,PR-1147,Foundation 674,18.79,56.46,Alerte Humidité,Makeup
+2025-02-01 10:30:31,SENSOR-737,PR-1149,Foundation 675,21.47,40.62,Normal,Makeup
+2025-01-13 16:52:31,SENSOR-439,PR-1151,Hair Mask 676,25.52,60.91,Normal,Haircare
+2025-01-18 21:11:31,SENSOR-303,PR-1153,Hand Cream 677,19.12,60.18,Normal,Bodycare
+2025-02-03 06:24:31,SENSOR-366,PR-1155,Hair Oil 678,25.2,61.87,Normal,Haircare
+2025-01-18 09:14:31,SENSOR-307,PR-1157,Body Lotion 679,23.52,42.99,Alerte Humidité,Bodycare
+2025-02-11 11:51:31,SENSOR-845,PR-1159,Hand Cream 680,19.68,50.49,Normal,Bodycare
+2025-01-17 19:32:31,SENSOR-668,PR-1161,Night Cream 681,18.76,58.71,Alerte Température,Skincare
+2025-02-02 21:15:31,SENSOR-678,PR-1163,Foot Cream 682,22.9,48.76,Normal,Bodycare
+2025-01-23 19:27:31,SENSOR-718,PR-1165,Hand Cream 683,22.15,59.61,Normal,Bodycare
+2025-01-12 08:39:31,SENSOR-707,PR-1167,Eau de Parfum 684,21.58,36.37,Alerte Température,Fragrance
+2025-01-15 22:28:31,SENSOR-203,PR-1169,Perfume Oil 685,21.93,31.18,Alerte Température & Humidité,Fragrance
+2025-01-14 17:41:31,SENSOR-750,PR-1171,Foot Cream 686,19.3,51.33,Normal,Bodycare
+2025-01-17 00:30:31,SENSOR-657,PR-1173,Conditioner 687,21.19,65.77,Alerte Température,Haircare
+2025-01-19 21:12:31,SENSOR-435,PR-1175,Shampoo 688,25.76,55.13,Normal,Haircare
+2025-01-22 01:25:31,SENSOR-414,PR-1177,Perfume Oil 689,20.02,40.82,Normal,Fragrance
+2025-01-29 18:46:31,SENSOR-756,PR-1179,Perfume Oil 690,20.24,38.98,Normal,Fragrance
+2025-01-18 09:54:31,SENSOR-803,PR-1181,Body Wash 691,18.59,43.49,Alerte Température & Humidité,Bodycare
+2025-01-18 19:10:31,SENSOR-117,PR-1183,Eau de Toilette 692,21.26,40.15,Alerte Température,Fragrance
+2025-01-13 10:05:31,SENSOR-702,PR-1185,Eyeliner 693,22.07,31.0,Alerte Humidité,Makeup
+2025-02-10 17:14:31,SENSOR-203,PR-1187,Body Mist 694,20.86,31.41,Alerte Humidité,Fragrance
+2025-02-05 14:48:31,SENSOR-632,PR-1189,Body Lotion 695,22.89,59.34,Normal,Bodycare
+2025-01-27 21:10:31,SENSOR-769,PR-1191,Lipstick 696,23.44,54.54,Normal,Makeup
+2025-02-06 01:08:31,SENSOR-706,PR-1193,Night Cream 697,19.26,61.22,Normal,Skincare
+2025-01-12 16:52:31,SENSOR-667,PR-1195,Blush 698,17.26,39.03,Normal,Makeup
+2025-01-20 18:25:31,SENSOR-215,PR-1197,Shampoo 699,22.47,65.96,Normal,Haircare
+2025-01-14 17:46:31,SENSOR-856,PR-1199,Eau de Toilette 700,18.24,45.31,Alerte Température & Humidité,Fragrance
+2025-02-09 22:23:31,SENSOR-916,PR-1201,Lipstick 701,19.44,39.55,Normal,Makeup
+2025-01-12 11:46:31,SENSOR-500,PR-1203,Face Wash 702,18.13,46.85,Alerte Température,Skincare
+2025-02-06 16:08:31,SENSOR-382,PR-1205,Conditioner 703,26.94,76.22,Alerte Humidité,Haircare
+2025-02-04 05:30:31,SENSOR-782,PR-1207,Foot Cream 704,23.09,64.82,Normal,Bodycare
+2025-02-02 15:32:31,SENSOR-660,PR-1209,Conditioner 705,24.75,58.32,Normal,Haircare
+2025-02-05 14:22:31,SENSOR-340,PR-1211,Hair Oil 706,26.58,74.3,Normal,Haircare
+2025-02-05 16:34:31,SENSOR-268,PR-1213,Eyeliner 707,17.8,50.8,Normal,Makeup
+2025-01-25 11:55:31,SENSOR-996,PR-1215,Eau de Toilette 708,21.87,46.88,Alerte Température & Humidité,Fragrance
+2025-01-19 16:33:31,SENSOR-879,PR-1217,Eau de Toilette 709,18.73,47.85,Alerte Température & Humidité,Fragrance
+2025-02-03 12:40:31,SENSOR-255,PR-1219,Foundation 710,16.36,41.99,Normal,Makeup
+2025-01-30 13:01:31,SENSOR-516,PR-1221,Conditioner 711,25.26,72.79,Normal,Haircare
+2025-01-21 22:49:31,SENSOR-237,PR-1223,Body Wash 712,24.16,48.87,Normal,Bodycare
+2025-02-01 08:27:31,SENSOR-625,PR-1225,Lipstick 713,24.86,37.09,Alerte Température,Makeup
+2025-02-07 23:50:31,SENSOR-799,PR-1227,Eau de Toilette 714,19.45,31.06,Alerte Humidité,Fragrance
+2025-01-23 14:52:31,SENSOR-984,PR-1229,Hair Serum 715,27.53,64.01,Alerte Température,Haircare
+2025-01-14 07:28:31,SENSOR-466,PR-1231,Face Wash 716,25.03,62.59,Alerte Température,Skincare
+2025-01-12 07:42:31,SENSOR-629,PR-1233,Perfume Oil 717,20.4,46.96,Alerte Humidité,Fragrance
+2025-02-11 16:49:31,SENSOR-995,PR-1235,Lipstick 718,19.53,35.47,Normal,Makeup
+2025-01-20 11:04:31,SENSOR-916,PR-1237,Moisturizer 719,19.21,63.45,Normal,Skincare
+2025-01-31 01:22:31,SENSOR-851,PR-1239,Foundation 720,17.6,41.03,Normal,Makeup
+2025-01-29 11:42:31,SENSOR-640,PR-1241,Mascara 721,23.97,35.28,Normal,Makeup
+2025-01-13 19:44:31,SENSOR-851,PR-1243,Night Cream 722,20.86,59.8,Normal,Skincare
+2025-02-02 15:38:31,SENSOR-783,PR-1245,Night Cream 723,21.91,54.24,Normal,Skincare
+2025-01-21 12:16:31,SENSOR-947,PR-1247,Lipstick 724,20.61,33.47,Alerte Humidité,Makeup
+2025-01-30 13:25:31,SENSOR-523,PR-1249,Night Cream 725,23.73,54.69,Normal,Skincare
+2025-01-25 01:19:31,SENSOR-647,PR-1251,Night Cream 726,22.82,53.36,Normal,Skincare
+2025-01-26 21:22:31,SENSOR-105,PR-1253,Face Serum 727,21.93,62.49,Normal,Skincare
+2025-02-08 09:22:31,SENSOR-752,PR-1255,Face Wash 728,22.78,51.11,Normal,Skincare
+2025-01-28 04:05:31,SENSOR-281,PR-1257,Face Serum 729,24.91,62.64,Normal,Skincare
+2025-02-08 08:43:31,SENSOR-977,PR-1259,Hair Mask 730,21.33,63.82,Alerte Température,Haircare
+2025-01-13 13:57:31,SENSOR-391,PR-1261,Conditioner 731,27.08,50.65,Alerte Température & Humidité,Haircare
+2025-01-27 04:07:31,SENSOR-765,PR-1263,Body Mist 732,21.93,38.56,Alerte Température,Fragrance
+2025-01-13 21:18:31,SENSOR-571,PR-1265,Hair Oil 733,21.61,68.59,Alerte Température,Haircare
+2025-02-05 09:24:31,SENSOR-753,PR-1267,Body Lotion 734,25.93,41.14,Alerte Température & Humidité,Bodycare
+2025-02-10 02:34:31,SENSOR-500,PR-1269,Hand Cream 735,19.09,68.43,Alerte Humidité,Bodycare
+2025-01-17 02:35:31,SENSOR-524,PR-1271,Eau de Toilette 736,18.58,35.17,Alerte Température,Fragrance
+2025-02-04 00:24:31,SENSOR-373,PR-1273,Conditioner 737,27.51,53.47,Alerte Température & Humidité,Haircare
+2025-01-19 09:54:31,SENSOR-975,PR-1275,Hand Cream 738,20.91,49.54,Normal,Bodycare
+2025-01-29 12:34:31,SENSOR-713,PR-1277,Hair Oil 739,20.72,69.44,Alerte Température,Haircare
+2025-02-05 10:25:31,SENSOR-856,PR-1279,Face Wash 740,22.47,54.12,Normal,Skincare
+2025-02-04 12:06:31,SENSOR-391,PR-1281,Body Mist 741,21.64,31.97,Alerte Température & Humidité,Fragrance
+2025-02-07 09:24:31,SENSOR-470,PR-1283,Body Scrub 742,22.58,41.22,Alerte Humidité,Bodycare
+2025-01-20 13:38:31,SENSOR-588,PR-1285,Body Mist 743,21.14,42.88,Alerte Température,Fragrance
+2025-01-19 13:57:31,SENSOR-928,PR-1287,Moisturizer 744,22.77,43.02,Alerte Humidité,Skincare
+2025-02-07 04:43:31,SENSOR-326,PR-1289,Foundation 745,23.45,57.88,Alerte Humidité,Makeup
+2025-01-21 04:39:31,SENSOR-123,PR-1291,Moisturizer 746,24.28,45.63,Normal,Skincare
+2025-01-21 07:34:31,SENSOR-917,PR-1293,Lipstick 747,16.44,50.04,Normal,Makeup
+2025-01-25 20:37:31,SENSOR-435,PR-1295,Night Cream 748,25.32,41.67,Alerte Température & Humidité,Skincare
+2025-01-12 07:23:31,SENSOR-608,PR-1297,Blush 749,22.37,45.8,Normal,Makeup
+2025-02-04 06:39:31,SENSOR-886,PR-1299,Body Wash 750,23.35,41.43,Alerte Humidité,Bodycare
+2025-01-28 19:09:31,SENSOR-665,PR-1301,Hair Oil 751,25.52,77.88,Alerte Humidité,Haircare
+2025-01-15 08:01:31,SENSOR-620,PR-1303,Perfume Oil 752,21.3,37.67,Alerte Température,Fragrance
+2025-01-30 03:11:31,SENSOR-211,PR-1305,Hair Mask 753,20.4,73.45,Alerte Température,Haircare
+2025-01-25 07:14:31,SENSOR-844,PR-1307,Night Cream 754,20.45,42.83,Alerte Humidité,Skincare
+2025-01-17 13:29:31,SENSOR-297,PR-1309,Hand Cream 755,24.14,60.01,Normal,Bodycare
+2025-01-13 01:14:31,SENSOR-214,PR-1311,Foundation 756,22.62,59.57,Alerte Humidité,Makeup
+2025-02-04 02:20:31,SENSOR-674,PR-1313,Moisturizer 757,23.39,59.87,Normal,Skincare
+2025-02-08 11:30:31,SENSOR-459,PR-1315,Hair Serum 758,25.67,66.01,Normal,Haircare
+2025-01-29 02:13:31,SENSOR-898,PR-1317,Lipstick 759,16.71,41.59,Normal,Makeup
+2025-02-07 23:02:31,SENSOR-393,PR-1319,Foundation 760,15.54,41.37,Alerte Température,Makeup
+2025-01-18 11:37:31,SENSOR-617,PR-1321,Perfume Oil 761,21.36,39.88,Alerte Température,Fragrance
+2025-02-11 08:02:31,SENSOR-338,PR-1323,Body Wash 762,21.37,68.44,Alerte Humidité,Bodycare
+2025-02-05 10:08:31,SENSOR-133,PR-1325,Eyeliner 763,20.82,55.98,Alerte Humidité,Makeup
+2025-02-04 21:10:31,SENSOR-788,PR-1327,Night Cream 764,23.83,46.32,Normal,Skincare
+2025-01-13 13:42:31,SENSOR-550,PR-1329,Face Wash 765,25.42,61.74,Alerte Température,Skincare
+2025-01-14 12:46:31,SENSOR-457,PR-1331,Foot Cream 766,25.63,66.09,Alerte Température & Humidité,Bodycare
+2025-01-30 23:32:31,SENSOR-523,PR-1333,Body Wash 767,20.85,53.23,Normal,Bodycare
+2025-01-18 22:47:31,SENSOR-354,PR-1335,Night Cream 768,20.98,43.66,Alerte Humidité,Skincare
+2025-01-30 14:02:31,SENSOR-848,PR-1337,Eau de Parfum 769,19.56,45.82,Alerte Humidité,Fragrance
+2025-01-22 21:53:31,SENSOR-874,PR-1339,Sunscreen 770,24.82,45.96,Normal,Skincare
+2025-02-11 01:24:31,SENSOR-611,PR-1341,Eau de Toilette 771,18.3,36.29,Alerte Température,Fragrance
+2025-02-08 21:03:31,SENSOR-987,PR-1343,Perfume Oil 772,19.49,45.66,Alerte Humidité,Fragrance
+2025-02-07 20:29:31,SENSOR-665,PR-1345,Hair Serum 773,26.82,67.45,Normal,Haircare
+2025-02-01 11:39:31,SENSOR-690,PR-1347,Body Mist 774,20.88,34.99,Alerte Humidité,Fragrance
+2025-01-18 07:06:31,SENSOR-871,PR-1349,Hair Mask 775,20.55,76.85,Alerte Température & Humidité,Haircare
+2025-01-12 06:30:31,SENSOR-449,PR-1351,Eau de Toilette 776,19.95,31.16,Alerte Humidité,Fragrance
+2025-01-29 22:10:31,SENSOR-291,PR-1353,Body Wash 777,21.06,41.4,Alerte Humidité,Bodycare
+2025-01-18 09:49:31,SENSOR-412,PR-1355,Hair Mask 778,24.3,58.66,Normal,Haircare
+2025-01-18 07:04:31,SENSOR-734,PR-1357,Eyeliner 779,21.23,49.78,Normal,Makeup
+2025-01-20 13:30:31,SENSOR-143,PR-1359,Conditioner 780,26.95,61.96,Normal,Haircare
+2025-02-05 17:08:31,SENSOR-682,PR-1361,Body Lotion 781,18.43,62.07,Alerte Température,Bodycare
+2025-01-22 21:54:31,SENSOR-228,PR-1363,Foot Cream 782,18.63,40.71,Alerte Température & Humidité,Bodycare
+2025-01-15 13:52:31,SENSOR-280,PR-1365,Shampoo 783,26.76,57.91,Normal,Haircare
+2025-02-05 17:19:31,SENSOR-847,PR-1367,Hand Cream 784,23.61,66.85,Alerte Humidité,Bodycare
+2025-01-23 01:02:31,SENSOR-500,PR-1369,Face Serum 785,25.6,54.44,Alerte Température,Skincare
+2025-01-20 00:29:31,SENSOR-629,PR-1371,Eyeliner 786,16.4,44.72,Normal,Makeup
+2025-02-04 10:22:31,SENSOR-918,PR-1373,Eau de Toilette 787,21.38,48.79,Alerte Température & Humidité,Fragrance
+2025-01-15 09:08:31,SENSOR-499,PR-1375,Face Serum 788,22.27,47.56,Normal,Skincare
+2025-02-01 19:24:31,SENSOR-920,PR-1377,Foot Cream 789,25.56,56.19,Alerte Température,Bodycare
+2025-01-15 10:32:31,SENSOR-542,PR-1379,Face Serum 790,20.16,69.27,Alerte Humidité,Skincare
+2025-02-06 13:07:31,SENSOR-944,PR-1381,Eyeliner 791,16.98,34.5,Alerte Humidité,Makeup
+2025-01-21 04:30:31,SENSOR-180,PR-1383,Hair Serum 792,26.85,77.42,Alerte Humidité,Haircare
+2025-02-07 18:38:31,SENSOR-347,PR-1385,Blush 793,15.95,45.31,Alerte Température,Makeup
+2025-01-11 21:25:31,SENSOR-306,PR-1387,Lipstick 794,15.86,43.48,Alerte Température,Makeup
+2025-02-10 22:21:31,SENSOR-816,PR-1389,Shampoo 795,23.72,79.46,Alerte Humidité,Haircare
+2025-02-05 22:21:31,SENSOR-599,PR-1391,Moisturizer 796,18.51,43.49,Alerte Température & Humidité,Skincare
+2025-01-16 13:31:31,SENSOR-363,PR-1393,Mascara 797,21.61,40.15,Normal,Makeup
+2025-01-17 06:19:31,SENSOR-838,PR-1395,Body Mist 798,21.44,31.25,Alerte Température & Humidité,Fragrance
+2025-01-19 01:21:31,SENSOR-890,PR-1397,Blush 799,18.44,38.79,Normal,Makeup
+2025-02-10 20:46:31,SENSOR-123,PR-1399,Shampoo 800,20.47,60.54,Alerte Température,Haircare
+2025-01-15 23:15:31,SENSOR-993,PR-1401,Eyeliner 801,18.22,41.09,Normal,Makeup
+2025-01-12 10:50:31,SENSOR-876,PR-1403,Lipstick 802,21.24,56.89,Alerte Humidité,Makeup
+2025-02-03 13:37:31,SENSOR-752,PR-1405,Body Lotion 803,25.21,49.6,Alerte Température,Bodycare
+2025-01-21 02:01:31,SENSOR-747,PR-1407,Conditioner 804,26.22,56.14,Normal,Haircare
+2025-02-05 00:34:31,SENSOR-980,PR-1409,Body Wash 805,24.9,55.65,Normal,Bodycare
+2025-01-22 11:59:31,SENSOR-349,PR-1411,Body Lotion 806,18.69,62.36,Alerte Température,Bodycare
+2025-01-17 03:55:31,SENSOR-386,PR-1413,Body Wash 807,22.76,43.92,Alerte Humidité,Bodycare
+2025-01-27 16:07:31,SENSOR-432,PR-1415,Hair Mask 808,27.48,52.97,Alerte Température & Humidité,Haircare
+2025-01-18 11:07:31,SENSOR-730,PR-1417,Body Lotion 809,21.58,43.15,Alerte Humidité,Bodycare
+2025-02-06 22:33:31,SENSOR-563,PR-1419,Deodorant 810,19.06,45.38,Alerte Humidité,Fragrance
+2025-01-31 08:17:31,SENSOR-396,PR-1421,Sunscreen 811,20.3,68.48,Alerte Humidité,Skincare
+2025-01-28 21:25:31,SENSOR-158,PR-1423,Blush 812,16.93,50.91,Normal,Makeup
+2025-02-03 08:49:31,SENSOR-603,PR-1425,Deodorant 813,21.71,30.43,Alerte Température & Humidité,Fragrance
+2025-01-18 07:17:31,SENSOR-885,PR-1427,Hair Serum 814,26.14,56.93,Normal,Haircare
+2025-01-30 18:26:31,SENSOR-371,PR-1429,Face Serum 815,19.61,51.36,Normal,Skincare
+2025-01-28 11:05:31,SENSOR-700,PR-1431,Blush 816,21.93,40.43,Normal,Makeup
+2025-01-27 17:53:31,SENSOR-596,PR-1433,Hair Serum 817,22.93,61.8,Normal,Haircare
+2025-01-26 06:40:31,SENSOR-402,PR-1435,Foot Cream 818,22.82,55.47,Normal,Bodycare
+2025-02-10 12:39:31,SENSOR-948,PR-1437,Hand Cream 819,21.8,53.63,Normal,Bodycare
+2025-02-03 16:06:31,SENSOR-268,PR-1439,Eau de Parfum 820,19.46,47.87,Alerte Humidité,Fragrance
+2025-01-22 13:13:31,SENSOR-128,PR-1441,Foot Cream 821,26.0,53.33,Alerte Température,Bodycare
+2025-01-29 08:02:31,SENSOR-114,PR-1443,Hand Cream 822,20.24,62.18,Normal,Bodycare
+2025-01-25 22:23:31,SENSOR-840,PR-1445,Body Mist 823,20.04,47.99,Alerte Humidité,Fragrance
+2025-01-25 04:54:31,SENSOR-770,PR-1447,Perfume Oil 824,18.67,39.73,Alerte Température,Fragrance
+2025-01-26 08:54:31,SENSOR-663,PR-1449,Shampoo 825,26.34,74.62,Normal,Haircare
+2025-01-12 12:32:31,SENSOR-939,PR-1451,Eyeliner 826,19.12,45.18,Normal,Makeup
+2025-02-08 10:48:31,SENSOR-930,PR-1453,Foundation 827,24.13,31.47,Alerte Température & Humidité,Makeup
+2025-02-06 04:00:31,SENSOR-571,PR-1455,Conditioner 828,25.43,65.01,Normal,Haircare
+2025-01-13 04:58:31,SENSOR-913,PR-1457,Hair Serum 829,24.19,60.88,Normal,Haircare
+2025-01-13 02:05:31,SENSOR-316,PR-1459,Foundation 830,21.64,59.62,Alerte Humidité,Makeup
+2025-01-22 14:49:31,SENSOR-647,PR-1461,Sunscreen 831,18.0,40.32,Alerte Température & Humidité,Skincare
+2025-02-09 13:57:31,SENSOR-341,PR-1463,Face Serum 832,24.14,68.97,Alerte Humidité,Skincare
+2025-01-23 07:25:31,SENSOR-165,PR-1465,Body Lotion 833,18.52,59.7,Alerte Température,Bodycare
+2025-01-17 22:07:31,SENSOR-503,PR-1467,Hair Mask 834,26.02,74.42,Normal,Haircare
+2025-02-09 20:30:31,SENSOR-198,PR-1469,Body Lotion 835,25.12,49.93,Alerte Température,Bodycare
+2025-01-22 11:20:31,SENSOR-980,PR-1471,Body Wash 836,20.17,46.74,Normal,Bodycare
+2025-01-27 05:23:31,SENSOR-915,PR-1473,Moisturizer 837,22.37,42.49,Alerte Humidité,Skincare
+2025-01-22 03:17:31,SENSOR-137,PR-1475,Shampoo 838,22.55,53.04,Alerte Humidité,Haircare
+2025-01-25 13:50:31,SENSOR-612,PR-1477,Perfume Oil 839,19.3,40.32,Normal,Fragrance
+2025-01-21 16:48:31,SENSOR-648,PR-1479,Perfume Oil 840,19.39,44.28,Normal,Fragrance
+2025-02-10 03:46:31,SENSOR-462,PR-1481,Hair Mask 841,27.06,74.9,Alerte Température,Haircare
+2025-02-03 01:51:31,SENSOR-129,PR-1483,Eyeliner 842,18.92,56.08,Alerte Humidité,Makeup
+2025-01-19 07:34:31,SENSOR-624,PR-1485,Body Lotion 843,18.98,49.35,Alerte Température,Bodycare
+2025-02-05 10:46:31,SENSOR-917,PR-1487,Hair Mask 844,26.08,71.08,Normal,Haircare
+2025-01-29 02:51:31,SENSOR-564,PR-1489,Conditioner 845,22.26,60.25,Normal,Haircare
+2025-02-08 00:58:31,SENSOR-664,PR-1491,Hair Oil 846,26.76,53.52,Alerte Humidité,Haircare
+2025-01-27 15:28:31,SENSOR-339,PR-1493,Eau de Toilette 847,18.12,32.11,Alerte Température & Humidité,Fragrance
+2025-01-25 04:56:31,SENSOR-942,PR-1495,Foundation 848,20.68,56.07,Alerte Humidité,Makeup
+2025-02-01 14:22:31,SENSOR-538,PR-1497,Hair Oil 849,24.08,56.42,Normal,Haircare
+2025-01-17 10:54:31,SENSOR-339,PR-1499,Conditioner 850,23.22,51.78,Alerte Humidité,Haircare
+2025-01-24 12:23:31,SENSOR-631,PR-1501,Eau de Parfum 851,18.23,41.79,Alerte Température,Fragrance
+2025-01-31 07:38:31,SENSOR-805,PR-1503,Sunscreen 852,21.85,63.65,Normal,Skincare
+2025-01-26 17:37:31,SENSOR-748,PR-1505,Deodorant 853,19.58,31.15,Alerte Humidité,Fragrance
+2025-02-06 15:37:31,SENSOR-126,PR-1507,Face Wash 854,18.45,65.16,Alerte Température & Humidité,Skincare
+2025-01-31 23:18:31,SENSOR-861,PR-1509,Night Cream 855,23.3,60.65,Normal,Skincare
+2025-01-21 14:28:31,SENSOR-380,PR-1511,Face Serum 856,19.28,50.32,Normal,Skincare
+2025-01-23 12:59:31,SENSOR-314,PR-1513,Hair Mask 857,21.8,74.39,Alerte Température,Haircare
+2025-02-07 14:01:31,SENSOR-747,PR-1515,Foot Cream 858,24.19,56.45,Normal,Bodycare
+2025-01-21 14:42:31,SENSOR-938,PR-1517,Body Mist 859,19.02,42.45,Normal,Fragrance
+2025-01-17 23:53:31,SENSOR-861,PR-1519,Night Cream 860,22.67,64.97,Normal,Skincare
+2025-02-06 21:58:31,SENSOR-575,PR-1521,Foot Cream 861,23.09,60.34,Normal,Bodycare
+2025-02-06 21:15:31,SENSOR-277,PR-1523,Hair Mask 862,22.26,58.27,Normal,Haircare
+2025-02-07 19:14:31,SENSOR-235,PR-1525,Lipstick 863,19.74,38.77,Normal,Makeup
+2025-01-28 02:46:31,SENSOR-569,PR-1527,Moisturizer 864,22.18,56.12,Normal,Skincare
+2025-01-28 12:26:31,SENSOR-835,PR-1529,Lipstick 865,15.82,31.26,Alerte Température & Humidité,Makeup
+2025-01-25 05:50:31,SENSOR-220,PR-1531,Eyeliner 866,22.58,33.67,Alerte Humidité,Makeup
+2025-01-13 20:12:31,SENSOR-372,PR-1533,Hair Oil 867,27.46,75.63,Alerte Température & Humidité,Haircare
+2025-01-13 17:50:31,SENSOR-168,PR-1535,Eau de Parfum 868,19.67,42.53,Normal,Fragrance
+2025-02-10 05:54:31,SENSOR-760,PR-1537,Deodorant 869,20.08,33.9,Alerte Humidité,Fragrance
+2025-01-15 00:43:31,SENSOR-421,PR-1539,Body Scrub 870,21.21,51.19,Normal,Bodycare
+2025-02-02 06:39:31,SENSOR-533,PR-1541,Face Wash 871,23.28,68.83,Alerte Humidité,Skincare
+2025-01-17 18:06:31,SENSOR-196,PR-1543,Conditioner 872,22.66,64.8,Normal,Haircare
+2025-02-10 20:20:31,SENSOR-974,PR-1545,Body Wash 873,19.11,52.54,Normal,Bodycare
+2025-01-15 11:54:31,SENSOR-267,PR-1547,Deodorant 874,19.3,48.4,Alerte Humidité,Fragrance
+2025-01-18 04:49:31,SENSOR-291,PR-1549,Deodorant 875,18.16,32.02,Alerte Température & Humidité,Fragrance
+2025-02-07 09:28:31,SENSOR-614,PR-1551,Blush 876,22.01,30.79,Alerte Humidité,Makeup
+2025-01-23 16:04:31,SENSOR-269,PR-1553,Body Scrub 877,22.59,62.5,Normal,Bodycare
+2025-02-04 03:33:31,SENSOR-863,PR-1555,Body Lotion 878,19.55,63.48,Normal,Bodycare
+2025-01-29 08:50:31,SENSOR-973,PR-1557,Mascara 879,24.91,48.61,Alerte Température,Makeup
+2025-01-24 02:42:31,SENSOR-512,PR-1559,Blush 880,16.52,35.2,Normal,Makeup
+2025-02-02 18:03:31,SENSOR-218,PR-1561,Eyeliner 881,16.96,40.35,Normal,Makeup
+2025-01-26 23:50:31,SENSOR-754,PR-1563,Perfume Oil 882,20.93,46.39,Alerte Humidité,Fragrance
+2025-02-01 02:54:31,SENSOR-743,PR-1565,Perfume Oil 883,18.94,33.8,Alerte Température & Humidité,Fragrance
+2025-01-26 22:17:31,SENSOR-780,PR-1567,Night Cream 884,21.37,61.94,Normal,Skincare
+2025-02-07 02:35:31,SENSOR-216,PR-1569,Hair Serum 885,24.65,62.35,Normal,Haircare
+2025-01-13 16:43:31,SENSOR-444,PR-1571,Mascara 886,22.64,40.17,Normal,Makeup
+2025-01-17 14:38:31,SENSOR-625,PR-1573,Eau de Toilette 887,18.34,43.42,Alerte Température,Fragrance
+2025-01-24 23:08:31,SENSOR-460,PR-1575,Foundation 888,23.58,57.38,Alerte Humidité,Makeup
+2025-01-25 08:44:31,SENSOR-778,PR-1577,Eyeliner 889,15.3,44.95,Alerte Température,Makeup
+2025-01-13 22:01:31,SENSOR-835,PR-1579,Hand Cream 890,23.23,54.65,Normal,Bodycare
+2025-01-17 07:58:31,SENSOR-998,PR-1581,Conditioner 891,23.71,50.29,Alerte Humidité,Haircare
+2025-01-15 04:26:31,SENSOR-721,PR-1583,Shampoo 892,22.15,56.43,Normal,Haircare
+2025-01-18 00:31:31,SENSOR-156,PR-1585,Foundation 893,18.78,37.6,Normal,Makeup
+2025-01-21 10:29:31,SENSOR-377,PR-1587,Shampoo 894,24.6,58.92,Normal,Haircare
+2025-01-20 09:05:31,SENSOR-755,PR-1589,Hair Mask 895,26.68,75.84,Alerte Humidité,Haircare
+2025-02-11 11:12:31,SENSOR-595,PR-1591,Conditioner 896,22.35,72.71,Normal,Haircare
+2025-01-31 05:28:31,SENSOR-345,PR-1593,Lipstick 897,23.16,37.79,Normal,Makeup
+2025-01-18 15:16:31,SENSOR-861,PR-1595,Face Wash 898,18.54,63.36,Alerte Température,Skincare
+2025-02-02 01:42:31,SENSOR-477,PR-1597,Perfume Oil 899,18.29,32.47,Alerte Température & Humidité,Fragrance
+2025-02-02 22:26:31,SENSOR-553,PR-1599,Body Wash 900,21.85,48.73,Normal,Bodycare
+2025-02-07 07:50:31,SENSOR-427,PR-1601,Hair Mask 901,25.04,58.31,Normal,Haircare
+2025-01-13 07:31:31,SENSOR-957,PR-1603,Shampoo 902,26.49,59.06,Normal,Haircare
+2025-02-10 00:11:31,SENSOR-720,PR-1605,Hair Serum 903,22.8,60.74,Normal,Haircare
+2025-01-21 17:21:31,SENSOR-963,PR-1607,Mascara 904,24.74,52.59,Alerte Température,Makeup
+2025-01-23 01:32:31,SENSOR-817,PR-1609,Hair Mask 905,23.16,70.84,Normal,Haircare
+2025-02-05 03:07:31,SENSOR-713,PR-1611,Hair Serum 906,20.51,70.44,Alerte Température,Haircare
+2025-01-25 19:19:31,SENSOR-823,PR-1613,Lipstick 907,18.96,30.29,Alerte Humidité,Makeup
+2025-02-07 02:21:31,SENSOR-331,PR-1615,Foundation 908,15.16,54.24,Alerte Température,Makeup
+2025-02-01 19:31:31,SENSOR-708,PR-1617,Blush 909,16.35,52.73,Normal,Makeup
+2025-01-15 13:54:31,SENSOR-408,PR-1619,Foot Cream 910,18.22,47.86,Alerte Température,Bodycare
+2025-01-18 20:10:31,SENSOR-188,PR-1621,Night Cream 911,22.83,43.35,Alerte Humidité,Skincare
+2025-02-04 23:24:31,SENSOR-539,PR-1623,Shampoo 912,21.34,53.26,Alerte Température & Humidité,Haircare
+2025-01-26 03:19:31,SENSOR-594,PR-1625,Hair Mask 913,25.36,67.6,Normal,Haircare
+2025-02-04 14:48:31,SENSOR-350,PR-1627,Foot Cream 914,19.76,66.05,Alerte Humidité,Bodycare
+2025-01-27 04:25:31,SENSOR-965,PR-1629,Sunscreen 915,25.88,59.87,Alerte Température,Skincare
+2025-01-14 00:12:31,SENSOR-909,PR-1631,Body Scrub 916,23.48,66.36,Alerte Humidité,Bodycare
+2025-01-16 01:43:31,SENSOR-250,PR-1633,Body Lotion 917,24.4,56.54,Normal,Bodycare
+2025-01-29 13:49:31,SENSOR-521,PR-1635,Moisturizer 918,25.12,40.42,Alerte Température & Humidité,Skincare
+2025-01-25 16:35:31,SENSOR-338,PR-1637,Face Serum 919,18.09,49.76,Alerte Température,Skincare
+2025-01-19 20:57:31,SENSOR-630,PR-1639,Foot Cream 920,25.7,66.83,Alerte Température & Humidité,Bodycare
+2025-02-09 00:17:31,SENSOR-452,PR-1641,Lipstick 921,15.21,31.62,Alerte Température & Humidité,Makeup
+2025-02-01 23:36:31,SENSOR-496,PR-1643,Body Wash 922,18.91,68.0,Alerte Température & Humidité,Bodycare
+2025-02-04 04:47:31,SENSOR-373,PR-1645,Body Scrub 923,24.65,59.93,Normal,Bodycare
+2025-02-02 16:18:31,SENSOR-942,PR-1647,Hair Oil 924,26.82,73.93,Normal,Haircare
+2025-02-01 19:48:31,SENSOR-602,PR-1649,Conditioner 925,24.86,51.1,Alerte Humidité,Haircare
+2025-01-13 16:53:31,SENSOR-221,PR-1651,Body Mist 926,21.94,34.49,Alerte Température & Humidité,Fragrance
+2025-01-28 22:24:31,SENSOR-163,PR-1653,Blush 927,22.61,35.48,Normal,Makeup
+2025-01-20 08:24:31,SENSOR-129,PR-1655,Blush 928,16.68,49.09,Normal,Makeup
+2025-01-31 19:00:31,SENSOR-931,PR-1657,Sunscreen 929,25.02,44.41,Alerte Température & Humidité,Skincare
+2025-01-29 23:20:31,SENSOR-524,PR-1659,Shampoo 930,27.07,51.0,Alerte Température & Humidité,Haircare
+2025-01-17 05:18:31,SENSOR-996,PR-1661,Eau de Toilette 931,21.52,45.27,Alerte Température & Humidité,Fragrance
+2025-01-30 23:45:31,SENSOR-747,PR-1663,Hair Serum 932,26.8,67.79,Normal,Haircare
+2025-01-28 03:50:31,SENSOR-729,PR-1665,Blush 933,15.24,41.37,Alerte Température,Makeup
+2025-01-30 09:53:31,SENSOR-435,PR-1667,Body Scrub 934,25.2,59.07,Alerte Température,Bodycare
+2025-01-30 15:11:31,SENSOR-972,PR-1669,Eyeliner 935,22.02,56.72,Alerte Humidité,Makeup
+2025-01-13 22:02:31,SENSOR-483,PR-1671,Body Scrub 936,22.16,45.14,Normal,Bodycare
+2025-01-18 22:35:31,SENSOR-337,PR-1673,Face Wash 937,23.81,46.97,Normal,Skincare
+2025-01-24 20:33:31,SENSOR-157,PR-1675,Foundation 938,16.8,35.07,Normal,Makeup
+2025-02-01 16:34:31,SENSOR-286,PR-1677,Perfume Oil 939,21.77,49.66,Alerte Température & Humidité,Fragrance
+2025-01-30 00:02:31,SENSOR-284,PR-1679,Eau de Toilette 940,21.4,38.1,Alerte Température,Fragrance
+2025-01-31 06:17:31,SENSOR-520,PR-1681,Body Mist 941,19.8,39.4,Normal,Fragrance
+2025-02-03 12:50:31,SENSOR-940,PR-1683,Blush 942,24.86,55.34,Alerte Température & Humidité,Makeup
+2025-01-24 13:23:31,SENSOR-163,PR-1685,Blush 943,19.89,37.35,Normal,Makeup
+2025-01-26 10:13:31,SENSOR-829,PR-1687,Deodorant 944,20.38,49.54,Alerte Humidité,Fragrance
+2025-01-22 21:48:31,SENSOR-581,PR-1689,Body Mist 945,20.57,31.11,Alerte Humidité,Fragrance
+2025-01-30 09:22:31,SENSOR-834,PR-1691,Shampoo 946,21.62,51.93,Alerte Température & Humidité,Haircare
+2025-01-30 03:03:31,SENSOR-497,PR-1693,Moisturizer 947,23.05,40.58,Alerte Humidité,Skincare
+2025-01-14 12:24:31,SENSOR-282,PR-1695,Eau de Parfum 948,21.48,34.69,Alerte Température & Humidité,Fragrance
+2025-01-25 01:46:31,SENSOR-861,PR-1697,Deodorant 949,21.97,48.17,Alerte Température & Humidité,Fragrance
+2025-02-01 15:36:31,SENSOR-419,PR-1699,Conditioner 950,27.33,70.3,Alerte Température,Haircare
+2025-02-05 21:07:31,SENSOR-778,PR-1701,Body Mist 951,18.1,42.77,Alerte Température,Fragrance
+2025-01-23 10:25:31,SENSOR-437,PR-1703,Eyeliner 952,22.55,36.0,Normal,Makeup
+2025-01-13 10:30:31,SENSOR-529,PR-1705,Shampoo 953,24.5,67.12,Normal,Haircare
+2025-02-03 05:25:31,SENSOR-285,PR-1707,Hair Serum 954,24.18,67.58,Normal,Haircare
+2025-01-29 07:46:31,SENSOR-120,PR-1709,Shampoo 955,24.17,59.91,Normal,Haircare
+2025-02-06 10:32:31,SENSOR-752,PR-1711,Face Wash 956,18.43,61.75,Alerte Température,Skincare
+2025-01-13 21:10:31,SENSOR-839,PR-1713,Lipstick 957,19.54,39.05,Normal,Makeup
+2025-01-20 18:16:31,SENSOR-259,PR-1715,Sunscreen 958,22.93,66.52,Alerte Humidité,Skincare
+2025-02-03 23:06:31,SENSOR-810,PR-1717,Night Cream 959,22.78,41.74,Alerte Humidité,Skincare
+2025-02-03 01:58:31,SENSOR-800,PR-1719,Eau de Parfum 960,19.9,48.5,Alerte Humidité,Fragrance
+2025-01-17 20:58:31,SENSOR-711,PR-1721,Body Lotion 961,20.15,42.58,Alerte Humidité,Bodycare
+2025-01-15 02:54:31,SENSOR-280,PR-1723,Body Scrub 962,19.39,55.92,Normal,Bodycare
+2025-01-28 20:19:31,SENSOR-905,PR-1725,Shampoo 963,20.62,56.08,Alerte Température,Haircare
+2025-01-14 17:19:31,SENSOR-850,PR-1727,Body Lotion 964,20.16,62.9,Normal,Bodycare
+2025-02-10 08:32:31,SENSOR-536,PR-1729,Moisturizer 965,22.24,59.63,Normal,Skincare
+2025-02-11 08:50:31,SENSOR-433,PR-1731,Moisturizer 966,24.17,42.18,Alerte Humidité,Skincare
+2025-01-13 20:15:31,SENSOR-397,PR-1733,Foundation 967,16.78,54.17,Normal,Makeup
+2025-01-13 00:17:31,SENSOR-898,PR-1735,Sunscreen 968,24.83,42.7,Alerte Humidité,Skincare
+2025-02-04 09:05:31,SENSOR-379,PR-1737,Perfume Oil 969,19.37,43.67,Normal,Fragrance
+2025-01-30 04:01:31,SENSOR-256,PR-1739,Perfume Oil 970,19.97,35.92,Normal,Fragrance
+2025-01-28 12:05:31,SENSOR-387,PR-1741,Moisturizer 971,23.21,49.98,Normal,Skincare
+2025-01-19 18:26:31,SENSOR-939,PR-1743,Conditioner 972,24.21,60.27,Normal,Haircare
+2025-01-27 07:47:31,SENSOR-924,PR-1745,Eyeliner 973,17.58,56.74,Alerte Humidité,Makeup
+2025-02-09 08:11:31,SENSOR-134,PR-1747,Shampoo 974,22.06,58.1,Normal,Haircare
+2025-02-02 04:15:31,SENSOR-873,PR-1749,Night Cream 975,21.52,48.09,Normal,Skincare
+2025-01-29 15:32:31,SENSOR-247,PR-1751,Body Lotion 976,25.28,47.55,Alerte Température,Bodycare
+2025-02-04 12:12:31,SENSOR-858,PR-1753,Eau de Toilette 977,18.76,33.1,Alerte Température & Humidité,Fragrance
+2025-01-16 07:27:31,SENSOR-361,PR-1755,Night Cream 978,25.91,45.18,Alerte Température,Skincare
+2025-02-06 18:00:31,SENSOR-807,PR-1757,Moisturizer 979,20.21,68.7,Alerte Humidité,Skincare
+2025-02-11 17:27:31,SENSOR-453,PR-1759,Hair Mask 980,26.27,64.12,Normal,Haircare
+2025-01-22 07:44:31,SENSOR-578,PR-1761,Moisturizer 981,22.42,47.87,Normal,Skincare
+2025-02-07 02:10:31,SENSOR-232,PR-1763,Eau de Toilette 982,21.75,33.97,Alerte Température & Humidité,Fragrance
+2025-02-10 16:54:31,SENSOR-396,PR-1765,Shampoo 983,21.23,73.67,Alerte Température,Haircare
+2025-01-31 12:21:31,SENSOR-860,PR-1767,Body Wash 984,25.3,64.41,Alerte Température,Bodycare
+2025-01-23 07:56:31,SENSOR-548,PR-1769,Eyeliner 985,16.82,36.05,Normal,Makeup
+2025-01-20 20:44:31,SENSOR-888,PR-1771,Foot Cream 986,22.17,45.64,Normal,Bodycare
+2025-01-22 17:15:31,SENSOR-593,PR-1773,Hair Serum 987,23.93,72.14,Normal,Haircare
+2025-01-23 22:49:31,SENSOR-776,PR-1775,Moisturizer 988,23.94,46.04,Normal,Skincare
+2025-01-22 04:31:31,SENSOR-774,PR-1777,Hair Oil 989,20.85,78.22,Alerte Température & Humidité,Haircare
+2025-01-30 06:48:31,SENSOR-661,PR-1779,Body Wash 990,21.74,52.58,Normal,Bodycare
+2025-02-08 22:25:31,SENSOR-126,PR-1781,Blush 991,20.0,39.39,Normal,Makeup
+2025-01-16 22:55:31,SENSOR-208,PR-1783,Hair Oil 992,24.1,57.64,Normal,Haircare
+2025-01-29 03:06:31,SENSOR-431,PR-1785,Hair Mask 993,22.86,59.43,Normal,Haircare
+2025-01-23 17:29:31,SENSOR-652,PR-1787,Face Serum 994,23.07,64.81,Normal,Skincare
+2025-02-11 08:17:31,SENSOR-338,PR-1789,Face Serum 995,20.78,46.77,Normal,Skincare
+2025-01-12 19:39:31,SENSOR-207,PR-1791,Moisturizer 996,24.13,45.05,Normal,Skincare
+2025-01-21 09:23:31,SENSOR-700,PR-1793,Foot Cream 997,25.02,45.62,Alerte Température,Bodycare
+2025-01-30 19:05:31,SENSOR-924,PR-1795,Blush 998,21.04,56.91,Alerte Humidité,Makeup
+2025-02-02 15:05:31,SENSOR-585,PR-1797,Sunscreen 999,24.02,63.33,Normal,Skincare
+2025-01-14 17:52:31,SENSOR-500,PR-1799,Night Cream 1000,25.65,46.61,Alerte Température,Skincare
+2025-02-06 19:35:31,SENSOR-894,PR-1801,Body Wash 1001,19.81,49.47,Normal,Bodycare
+2025-02-02 03:31:31,SENSOR-394,PR-1803,Body Lotion 1002,19.62,54.25,Normal,Bodycare
+2025-02-09 03:30:31,SENSOR-424,PR-1805,Foot Cream 1003,21.59,46.3,Normal,Bodycare
+2025-02-07 14:21:31,SENSOR-647,PR-1807,Moisturizer 1004,18.84,66.59,Alerte Température & Humidité,Skincare
+2025-01-15 14:33:31,SENSOR-767,PR-1809,Hand Cream 1005,21.35,64.8,Normal,Bodycare
+2025-01-14 17:54:31,SENSOR-247,PR-1811,Body Lotion 1006,20.55,64.83,Normal,Bodycare
+2025-01-14 12:39:31,SENSOR-599,PR-1813,Hand Cream 1007,22.35,59.23,Normal,Bodycare
+2025-01-20 17:55:31,SENSOR-214,PR-1815,Face Serum 1008,21.66,58.78,Normal,Skincare
+2025-02-09 01:01:31,SENSOR-840,PR-1817,Body Lotion 1009,24.11,47.1,Normal,Bodycare
+2025-01-28 02:57:31,SENSOR-390,PR-1819,Moisturizer 1010,18.46,52.33,Alerte Température,Skincare
+2025-01-24 15:53:31,SENSOR-400,PR-1821,Hair Serum 1011,23.88,69.1,Normal,Haircare
+2025-02-02 19:41:31,SENSOR-952,PR-1823,Moisturizer 1012,18.79,48.38,Alerte Température,Skincare
+2025-02-05 09:23:31,SENSOR-888,PR-1825,Face Serum 1013,24.23,53.73,Normal,Skincare
+2025-01-27 19:30:31,SENSOR-836,PR-1827,Sunscreen 1014,19.05,66.83,Alerte Humidité,Skincare
+2025-02-11 04:40:31,SENSOR-205,PR-1829,Shampoo 1015,26.61,59.62,Normal,Haircare
+2025-02-06 08:11:31,SENSOR-188,PR-1831,Eau de Parfum 1016,20.43,36.08,Normal,Fragrance
+2025-01-12 16:17:31,SENSOR-167,PR-1833,Eau de Toilette 1017,18.63,34.61,Alerte Température & Humidité,Fragrance
+2025-02-06 01:20:31,SENSOR-226,PR-1835,Body Lotion 1018,19.88,44.98,Alerte Humidité,Bodycare
+2025-01-25 07:31:31,SENSOR-495,PR-1837,Foot Cream 1019,21.49,42.59,Alerte Humidité,Bodycare
+2025-01-18 01:40:31,SENSOR-312,PR-1839,Conditioner 1020,21.21,69.11,Alerte Température,Haircare
+2025-02-09 19:49:31,SENSOR-230,PR-1841,Eau de Toilette 1021,18.43,42.18,Alerte Température,Fragrance
+2025-01-30 02:38:31,SENSOR-180,PR-1843,Moisturizer 1022,24.32,61.97,Normal,Skincare
+2025-02-05 02:50:31,SENSOR-237,PR-1845,Face Wash 1023,20.44,54.19,Normal,Skincare
+2025-01-21 03:58:31,SENSOR-297,PR-1847,Conditioner 1024,21.32,74.39,Alerte Température,Haircare
+2025-01-23 17:09:31,SENSOR-771,PR-1849,Shampoo 1025,26.17,77.14,Alerte Humidité,Haircare
+2025-02-03 06:37:31,SENSOR-551,PR-1851,Moisturizer 1026,19.04,67.41,Alerte Humidité,Skincare
+2025-01-13 19:06:31,SENSOR-396,PR-1853,Body Wash 1027,22.58,43.87,Alerte Humidité,Bodycare
+2025-01-18 23:56:31,SENSOR-228,PR-1855,Eau de Toilette 1028,20.06,31.4,Alerte Humidité,Fragrance
+2025-02-02 17:36:31,SENSOR-563,PR-1857,Conditioner 1029,21.04,68.69,Alerte Température,Haircare
+2025-01-18 12:52:31,SENSOR-506,PR-1859,Foot Cream 1030,19.4,48.13,Normal,Bodycare
+2025-01-19 10:25:31,SENSOR-587,PR-1861,Perfume Oil 1031,18.55,35.55,Alerte Température,Fragrance
+2025-02-11 10:44:31,SENSOR-393,PR-1863,Shampoo 1032,22.47,70.53,Normal,Haircare
+2025-01-20 12:14:31,SENSOR-835,PR-1865,Foundation 1033,17.13,54.49,Normal,Makeup
+2025-01-30 19:55:31,SENSOR-349,PR-1867,Face Wash 1034,18.82,41.97,Alerte Température & Humidité,Skincare
+2025-02-01 23:36:31,SENSOR-868,PR-1869,Hand Cream 1035,24.17,40.74,Alerte Humidité,Bodycare
+2025-01-12 21:47:31,SENSOR-367,PR-1871,Eau de Parfum 1036,18.45,34.59,Alerte Température & Humidité,Fragrance
+2025-01-30 17:20:31,SENSOR-911,PR-1873,Hair Mask 1037,25.23,74.35,Normal,Haircare
+2025-01-19 05:57:31,SENSOR-986,PR-1875,Blush 1038,21.98,54.5,Normal,Makeup
+2025-02-02 07:30:31,SENSOR-224,PR-1877,Blush 1039,20.06,35.92,Normal,Makeup
+2025-01-22 05:11:31,SENSOR-419,PR-1879,Perfume Oil 1040,19.11,49.51,Alerte Humidité,Fragrance
+2025-02-05 01:37:31,SENSOR-784,PR-1881,Body Mist 1041,21.32,40.04,Alerte Température,Fragrance
+2025-01-25 08:37:31,SENSOR-302,PR-1883,Hand Cream 1042,23.54,54.17,Normal,Bodycare
+2025-02-05 23:14:31,SENSOR-708,PR-1885,Moisturizer 1043,18.01,53.84,Alerte Température,Skincare
+2025-02-05 20:39:31,SENSOR-632,PR-1887,Body Mist 1044,21.41,41.11,Alerte Température,Fragrance
+2025-01-14 02:47:31,SENSOR-893,PR-1889,Eyeliner 1045,21.4,46.72,Normal,Makeup
+2025-01-13 21:04:31,SENSOR-446,PR-1891,Face Serum 1046,23.66,41.09,Alerte Humidité,Skincare
+2025-01-18 02:01:31,SENSOR-631,PR-1893,Body Scrub 1047,25.4,50.67,Alerte Température,Bodycare
+2025-02-09 07:10:31,SENSOR-876,PR-1895,Blush 1048,15.25,49.79,Alerte Température,Makeup
+2025-01-26 23:25:31,SENSOR-668,PR-1897,Night Cream 1049,24.5,56.79,Normal,Skincare
+2025-01-16 15:46:31,SENSOR-131,PR-1899,Conditioner 1050,27.85,59.68,Alerte Température,Haircare
+2025-02-10 01:47:31,SENSOR-341,PR-1901,Eau de Toilette 1051,19.37,41.79,Normal,Fragrance
+2025-01-28 14:13:31,SENSOR-462,PR-1903,Eau de Parfum 1052,19.36,47.76,Alerte Humidité,Fragrance
+2025-01-12 17:05:31,SENSOR-758,PR-1905,Foundation 1053,18.16,38.04,Normal,Makeup
+2025-02-09 13:32:31,SENSOR-115,PR-1907,Eau de Parfum 1054,21.76,33.72,Alerte Température & Humidité,Fragrance
+2025-01-26 13:35:31,SENSOR-738,PR-1909,Sunscreen 1055,22.78,45.95,Normal,Skincare
+2025-02-07 08:29:31,SENSOR-619,PR-1911,Deodorant 1056,21.94,47.13,Alerte Température & Humidité,Fragrance
+2025-01-31 15:55:31,SENSOR-665,PR-1913,Body Scrub 1057,24.08,58.55,Normal,Bodycare
+2025-02-01 18:25:31,SENSOR-947,PR-1915,Perfume Oil 1058,18.97,41.57,Alerte Température,Fragrance
+2025-02-06 22:03:31,SENSOR-700,PR-1917,Body Wash 1059,22.24,69.97,Alerte Humidité,Bodycare
+2025-02-09 22:06:31,SENSOR-267,PR-1919,Face Wash 1060,21.29,52.09,Normal,Skincare
+2025-01-23 20:10:31,SENSOR-460,PR-1921,Lipstick 1061,18.68,34.28,Alerte Humidité,Makeup
+2025-01-11 22:17:31,SENSOR-454,PR-1923,Body Lotion 1062,18.29,64.0,Alerte Température,Bodycare
+2025-02-09 21:06:31,SENSOR-355,PR-1925,Body Mist 1063,21.28,46.59,Alerte Température & Humidité,Fragrance
+2025-01-31 14:44:31,SENSOR-826,PR-1927,Conditioner 1064,20.98,58.18,Alerte Température,Haircare
+2025-01-21 18:28:31,SENSOR-655,PR-1929,Night Cream 1065,21.43,69.2,Alerte Humidité,Skincare
+2025-02-08 08:08:31,SENSOR-224,PR-1931,Body Wash 1066,25.53,59.95,Alerte Température,Bodycare
+2025-02-04 07:17:31,SENSOR-815,PR-1933,Perfume Oil 1067,20.06,33.2,Alerte Humidité,Fragrance
+2025-02-08 15:19:31,SENSOR-163,PR-1935,Shampoo 1068,26.59,70.56,Normal,Haircare
+2025-01-28 19:15:31,SENSOR-914,PR-1937,Eau de Parfum 1069,20.71,49.66,Alerte Humidité,Fragrance
+2025-01-23 16:49:31,SENSOR-300,PR-1939,Eyeliner 1070,21.04,41.77,Normal,Makeup
+2025-01-31 19:25:31,SENSOR-533,PR-1941,Body Mist 1071,21.21,33.28,Alerte Température & Humidité,Fragrance
+2025-01-24 10:15:31,SENSOR-361,PR-1943,Night Cream 1072,19.16,41.03,Alerte Humidité,Skincare
+2025-02-05 00:20:31,SENSOR-279,PR-1945,Hand Cream 1073,22.53,61.74,Normal,Bodycare
+2025-02-02 00:04:31,SENSOR-948,PR-1947,Hair Serum 1074,23.79,74.86,Normal,Haircare
+2025-02-08 15:30:31,SENSOR-751,PR-1949,Shampoo 1075,24.6,64.44,Normal,Haircare
+2025-01-20 08:10:31,SENSOR-328,PR-1951,Hair Mask 1076,24.51,70.79,Normal,Haircare
+2025-01-23 22:39:31,SENSOR-784,PR-1953,Hair Serum 1077,20.07,54.99,Alerte Température & Humidité,Haircare
+2025-01-31 04:20:31,SENSOR-411,PR-1955,Hair Oil 1078,24.69,78.91,Alerte Humidité,Haircare
+2025-01-19 19:23:31,SENSOR-309,PR-1957,Body Wash 1079,18.63,61.07,Alerte Température,Bodycare
+2025-01-16 04:09:31,SENSOR-667,PR-1959,Hair Serum 1080,21.67,73.7,Alerte Température,Haircare
+2025-01-22 01:11:31,SENSOR-496,PR-1961,Deodorant 1081,18.81,35.88,Alerte Température,Fragrance
+2025-01-28 03:56:31,SENSOR-739,PR-1963,Shampoo 1082,23.83,66.64,Normal,Haircare
+2025-02-11 01:03:31,SENSOR-938,PR-1965,Body Lotion 1083,21.32,42.8,Alerte Humidité,Bodycare
+2025-01-29 01:04:31,SENSOR-777,PR-1967,Face Serum 1084,20.69,55.12,Normal,Skincare
+2025-02-05 15:42:31,SENSOR-139,PR-1969,Body Lotion 1085,24.69,67.41,Alerte Humidité,Bodycare
+2025-01-22 03:28:31,SENSOR-937,PR-1971,Moisturizer 1086,18.47,58.05,Alerte Température,Skincare
+2025-02-07 21:13:31,SENSOR-860,PR-1973,Hand Cream 1087,18.53,56.84,Alerte Température,Bodycare
+2025-01-23 21:47:31,SENSOR-788,PR-1975,Deodorant 1088,21.81,34.82,Alerte Température & Humidité,Fragrance
+2025-01-29 02:33:31,SENSOR-306,PR-1977,Eyeliner 1089,22.32,48.52,Normal,Makeup
+2025-01-30 00:21:31,SENSOR-668,PR-1979,Hand Cream 1090,23.06,65.67,Alerte Humidité,Bodycare
+2025-01-27 09:36:31,SENSOR-408,PR-1981,Moisturizer 1091,19.0,45.7,Normal,Skincare
+2025-02-01 20:53:31,SENSOR-798,PR-1983,Body Scrub 1092,19.11,55.71,Normal,Bodycare
+2025-02-11 02:29:31,SENSOR-535,PR-1985,Foot Cream 1093,19.99,60.41,Normal,Bodycare
+2025-02-08 17:15:31,SENSOR-403,PR-1987,Mascara 1094,18.84,39.27,Normal,Makeup
+2025-02-11 14:00:31,SENSOR-956,PR-1989,Eau de Toilette 1095,19.86,35.74,Normal,Fragrance
+2025-01-19 22:16:31,SENSOR-179,PR-1991,Body Scrub 1096,23.48,54.11,Normal,Bodycare
+2025-01-31 17:48:31,SENSOR-916,PR-1993,Body Lotion 1097,24.85,67.04,Alerte Humidité,Bodycare
+2025-02-06 12:58:31,SENSOR-472,PR-1995,Foundation 1098,18.15,52.38,Normal,Makeup
+2025-01-19 00:40:31,SENSOR-817,PR-1997,Blush 1099,19.79,55.8,Alerte Humidité,Makeup
+2025-02-05 09:48:31,SENSOR-202,PR-1999,Conditioner 1100,23.64,71.65,Normal,Haircare
+2025-01-14 20:02:31,SENSOR-856,PR-2001,Night Cream 1101,21.73,50.49,Normal,Skincare
+2025-02-09 19:08:31,SENSOR-675,PR-2003,Body Lotion 1102,24.31,60.65,Normal,Bodycare
+2025-02-10 10:20:31,SENSOR-684,PR-2005,Eau de Toilette 1103,20.2,50.0,Alerte Humidité,Fragrance
+2025-02-04 20:01:31,SENSOR-761,PR-2007,Hair Oil 1104,22.41,56.88,Normal,Haircare
+2025-01-30 04:28:31,SENSOR-791,PR-2009,Face Serum 1105,23.87,57.71,Normal,Skincare
+2025-01-19 15:38:31,SENSOR-592,PR-2011,Foundation 1106,23.25,33.99,Alerte Humidité,Makeup
+2025-01-24 20:50:31,SENSOR-975,PR-2013,Sunscreen 1107,19.57,58.81,Normal,Skincare
+2025-01-27 12:18:31,SENSOR-616,PR-2015,Sunscreen 1108,18.03,69.02,Alerte Température & Humidité,Skincare
+2025-02-04 23:04:31,SENSOR-333,PR-2017,Foot Cream 1109,23.52,60.03,Normal,Bodycare
+2025-01-12 08:01:31,SENSOR-464,PR-2019,Face Wash 1110,23.27,43.5,Alerte Humidité,Skincare
+2025-02-02 14:46:31,SENSOR-130,PR-2021,Body Scrub 1111,18.92,67.62,Alerte Température & Humidité,Bodycare
+2025-01-22 08:18:31,SENSOR-778,PR-2023,Sunscreen 1112,18.24,62.13,Alerte Température,Skincare
+2025-02-05 19:09:31,SENSOR-792,PR-2025,Blush 1113,23.6,51.82,Normal,Makeup
+2025-02-06 02:05:31,SENSOR-473,PR-2027,Foot Cream 1114,19.44,61.32,Normal,Bodycare
+2025-02-08 04:37:31,SENSOR-858,PR-2029,Body Mist 1115,20.3,43.07,Normal,Fragrance
+2025-01-20 02:09:31,SENSOR-543,PR-2031,Hair Oil 1116,27.11,56.37,Alerte Température,Haircare
+2025-02-10 23:24:31,SENSOR-956,PR-2033,Hair Mask 1117,21.39,76.52,Alerte Température & Humidité,Haircare
+2025-02-02 17:08:31,SENSOR-657,PR-2035,Hair Serum 1118,24.94,68.93,Normal,Haircare
+2025-01-21 10:03:31,SENSOR-460,PR-2037,Body Scrub 1119,18.65,68.98,Alerte Température & Humidité,Bodycare
+2025-02-02 19:09:31,SENSOR-444,PR-2039,Body Lotion 1120,24.57,44.7,Alerte Humidité,Bodycare
+2025-01-22 19:18:31,SENSOR-774,PR-2041,Body Wash 1121,19.71,48.67,Normal,Bodycare
+2025-01-12 02:26:31,SENSOR-427,PR-2043,Face Serum 1122,24.41,42.29,Alerte Humidité,Skincare
+2025-02-06 20:34:31,SENSOR-166,PR-2045,Face Serum 1123,20.37,65.81,Alerte Humidité,Skincare
+2025-02-09 18:15:31,SENSOR-252,PR-2047,Sunscreen 1124,22.37,56.56,Normal,Skincare
+2025-01-30 12:25:31,SENSOR-890,PR-2049,Hand Cream 1125,19.66,52.28,Normal,Bodycare
+2025-02-04 17:23:31,SENSOR-869,PR-2051,Foot Cream 1126,22.1,52.97,Normal,Bodycare
+2025-01-18 20:41:31,SENSOR-866,PR-2053,Deodorant 1127,18.37,45.42,Alerte Température & Humidité,Fragrance
+2025-01-27 14:33:31,SENSOR-910,PR-2055,Night Cream 1128,25.59,58.81,Alerte Température,Skincare
+2025-01-27 03:01:31,SENSOR-788,PR-2057,Lipstick 1129,24.22,31.86,Alerte Température & Humidité,Makeup
+2025-02-02 10:20:31,SENSOR-890,PR-2059,Sunscreen 1130,18.32,43.07,Alerte Température & Humidité,Skincare
+2025-01-29 13:26:31,SENSOR-568,PR-2061,Lipstick 1131,17.53,57.93,Alerte Humidité,Makeup
+2025-01-17 15:08:31,SENSOR-486,PR-2063,Body Mist 1132,18.7,43.0,Alerte Température,Fragrance
+2025-01-26 02:21:31,SENSOR-219,PR-2065,Body Scrub 1133,22.58,67.4,Alerte Humidité,Bodycare
+2025-02-07 09:31:31,SENSOR-753,PR-2067,Blush 1134,17.0,40.48,Normal,Makeup
+2025-02-06 15:00:31,SENSOR-670,PR-2069,Hair Serum 1135,20.46,56.64,Alerte Température,Haircare
+2025-02-11 13:34:31,SENSOR-531,PR-2071,Foundation 1136,24.41,47.53,Alerte Température,Makeup
+2025-02-11 12:57:31,SENSOR-140,PR-2073,Foot Cream 1137,19.75,41.18,Alerte Humidité,Bodycare
+2025-01-28 03:42:31,SENSOR-511,PR-2075,Night Cream 1138,24.24,68.93,Alerte Humidité,Skincare
+2025-02-02 05:44:31,SENSOR-780,PR-2077,Eau de Parfum 1139,19.19,39.65,Normal,Fragrance
+2025-02-06 22:21:31,SENSOR-563,PR-2079,Foot Cream 1140,22.8,52.24,Normal,Bodycare
+2025-01-29 02:43:31,SENSOR-710,PR-2081,Body Wash 1141,23.86,58.16,Normal,Bodycare
+2025-02-10 21:32:31,SENSOR-946,PR-2083,Eau de Parfum 1142,21.59,43.97,Alerte Température,Fragrance
+2025-02-06 16:16:31,SENSOR-262,PR-2085,Body Wash 1143,20.97,69.72,Alerte Humidité,Bodycare
+2025-02-10 03:21:31,SENSOR-161,PR-2087,Body Lotion 1144,19.83,47.69,Normal,Bodycare
+2025-01-24 02:12:31,SENSOR-717,PR-2089,Face Wash 1145,22.86,69.97,Alerte Humidité,Skincare
+2025-02-06 01:09:31,SENSOR-209,PR-2091,Hand Cream 1146,19.47,46.37,Normal,Bodycare
+2025-01-16 12:40:31,SENSOR-170,PR-2093,Sunscreen 1147,25.8,46.49,Alerte Température,Skincare
+2025-01-18 10:40:31,SENSOR-629,PR-2095,Moisturizer 1148,18.65,55.5,Alerte Température,Skincare
+2025-02-06 00:57:31,SENSOR-552,PR-2097,Hair Serum 1149,26.31,79.67,Alerte Humidité,Haircare
+2025-02-02 08:29:31,SENSOR-100,PR-2099,Eau de Toilette 1150,20.26,41.9,Normal,Fragrance
+2025-01-21 15:09:31,SENSOR-713,PR-2101,Moisturizer 1151,25.61,53.47,Alerte Température,Skincare
+2025-01-11 20:52:31,SENSOR-992,PR-2103,Face Wash 1152,20.19,46.6,Normal,Skincare
+2025-01-23 08:02:31,SENSOR-556,PR-2105,Mascara 1153,20.26,50.4,Normal,Makeup
+2025-02-10 14:28:31,SENSOR-931,PR-2107,Eau de Toilette 1154,19.38,35.97,Normal,Fragrance
+2025-02-02 09:17:31,SENSOR-368,PR-2109,Body Wash 1155,19.99,52.29,Normal,Bodycare
+2025-02-09 19:19:31,SENSOR-288,PR-2111,Mascara 1156,24.99,57.91,Alerte Température & Humidité,Makeup
+2025-01-27 00:44:31,SENSOR-274,PR-2113,Night Cream 1157,19.15,48.4,Normal,Skincare
+2025-02-06 21:49:31,SENSOR-396,PR-2115,Shampoo 1158,24.35,73.57,Normal,Haircare
+2025-01-21 17:51:31,SENSOR-923,PR-2117,Hair Serum 1159,21.08,58.13,Alerte Température,Haircare
+2025-01-15 22:09:31,SENSOR-627,PR-2119,Night Cream 1160,25.83,53.86,Alerte Température,Skincare
+2025-02-10 07:30:31,SENSOR-212,PR-2121,Blush 1161,18.98,40.09,Normal,Makeup
+2025-01-20 01:38:31,SENSOR-521,PR-2123,Body Lotion 1162,25.98,62.22,Alerte Température,Bodycare
+2025-01-12 09:07:31,SENSOR-370,PR-2125,Eyeliner 1163,18.06,54.31,Normal,Makeup
+2025-02-01 19:38:31,SENSOR-956,PR-2127,Eau de Parfum 1164,21.96,40.73,Alerte Température,Fragrance
+2025-01-30 10:04:31,SENSOR-271,PR-2129,Perfume Oil 1165,18.59,38.27,Alerte Température,Fragrance
+2025-02-09 05:10:31,SENSOR-893,PR-2131,Foundation 1166,15.38,48.13,Alerte Température,Makeup
+2025-01-23 13:36:31,SENSOR-973,PR-2133,Shampoo 1167,23.61,76.12,Alerte Humidité,Haircare
+2025-02-11 05:37:31,SENSOR-825,PR-2135,Conditioner 1168,27.41,71.91,Alerte Température,Haircare
+2025-01-14 00:34:31,SENSOR-398,PR-2137,Hand Cream 1169,18.98,60.7,Alerte Température,Bodycare
+2025-01-17 14:56:31,SENSOR-142,PR-2139,Deodorant 1170,18.93,32.85,Alerte Température & Humidité,Fragrance
+2025-01-31 03:34:31,SENSOR-828,PR-2141,Body Scrub 1171,20.36,49.3,Normal,Bodycare
+2025-02-10 19:11:31,SENSOR-224,PR-2143,Moisturizer 1172,19.18,62.7,Normal,Skincare
+2025-02-09 20:32:31,SENSOR-518,PR-2145,Perfume Oil 1173,19.26,46.5,Alerte Humidité,Fragrance
+2025-02-01 00:32:31,SENSOR-473,PR-2147,Conditioner 1174,24.03,65.32,Normal,Haircare
+2025-01-27 14:10:31,SENSOR-424,PR-2149,Hair Serum 1175,23.64,55.04,Normal,Haircare
+2025-01-31 05:50:31,SENSOR-592,PR-2151,Eyeliner 1176,19.31,36.21,Normal,Makeup
+2025-02-02 21:39:31,SENSOR-148,PR-2153,Sunscreen 1177,21.36,68.21,Alerte Humidité,Skincare
+2025-01-18 13:39:31,SENSOR-648,PR-2155,Eyeliner 1178,18.1,45.77,Normal,Makeup
+2025-01-17 01:14:31,SENSOR-570,PR-2157,Face Wash 1179,25.38,49.83,Alerte Température,Skincare
+2025-02-01 11:02:31,SENSOR-565,PR-2159,Sunscreen 1180,19.31,56.84,Normal,Skincare
+2025-02-11 14:15:31,SENSOR-915,PR-2161,Face Wash 1181,22.82,46.03,Normal,Skincare
+2025-01-14 07:30:31,SENSOR-153,PR-2163,Moisturizer 1182,23.89,63.15,Normal,Skincare
+2025-01-27 15:46:31,SENSOR-188,PR-2165,Eau de Parfum 1183,19.56,30.0,Alerte Humidité,Fragrance
+2025-02-11 16:26:31,SENSOR-932,PR-2167,Lipstick 1184,22.08,41.27,Normal,Makeup
+2025-01-13 04:53:31,SENSOR-860,PR-2169,Deodorant 1185,18.97,47.38,Alerte Température & Humidité,Fragrance
+2025-01-18 04:18:31,SENSOR-200,PR-2171,Face Wash 1186,20.13,52.26,Normal,Skincare
+2025-02-02 19:34:31,SENSOR-967,PR-2173,Body Scrub 1187,21.32,49.97,Normal,Bodycare
+2025-01-22 10:26:31,SENSOR-543,PR-2175,Hair Oil 1188,25.28,72.1,Normal,Haircare
+2025-01-22 01:35:31,SENSOR-868,PR-2177,Sunscreen 1189,22.64,47.93,Normal,Skincare
+2025-02-07 19:57:31,SENSOR-578,PR-2179,Eau de Toilette 1190,20.68,43.91,Normal,Fragrance
+2025-01-25 21:20:31,SENSOR-660,PR-2181,Lipstick 1191,18.51,38.28,Normal,Makeup
+2025-02-10 22:37:31,SENSOR-978,PR-2183,Body Lotion 1192,21.53,67.52,Alerte Humidité,Bodycare
+2025-01-21 11:51:31,SENSOR-476,PR-2185,Conditioner 1193,23.67,70.62,Normal,Haircare
+2025-01-12 14:57:31,SENSOR-911,PR-2187,Eau de Toilette 1194,19.59,34.76,Alerte Humidité,Fragrance
+2025-01-18 13:27:31,SENSOR-472,PR-2189,Hair Oil 1195,26.59,74.44,Normal,Haircare
+2025-01-17 17:37:31,SENSOR-844,PR-2191,Lipstick 1196,24.05,37.43,Alerte Température,Makeup
+2025-01-31 21:03:31,SENSOR-367,PR-2193,Hair Mask 1197,25.42,68.59,Normal,Haircare
+2025-02-09 14:56:31,SENSOR-545,PR-2195,Body Mist 1198,18.57,43.65,Alerte Température,Fragrance
+2025-01-27 09:15:31,SENSOR-531,PR-2197,Face Serum 1199,25.94,55.23,Alerte Température,Skincare
+2025-02-05 15:02:31,SENSOR-551,PR-2199,Eau de Toilette 1200,19.96,30.75,Alerte Humidité,Fragrance
+2025-01-18 22:55:31,SENSOR-832,PR-2201,Face Wash 1201,23.54,66.14,Alerte Humidité,Skincare
